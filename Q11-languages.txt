@@ -1,0 +1,3047 @@
+Fortran  C++  Python  MPI  OpenMP  CUDA
+C++  Java  Perl  Python  Ruby  R
+Python 3
+Fortran  C  C++  Python  bash sed awk grep
+c  c++  python
+c++  python
+C  C#  Python  JavaScript  Java
+Fortran  C  Visual Basic  MatLab
+Python  Java
+C++   Java   Python
+Fortran  C  C++  Python
+Python  C  C++  Fortran
+C++ CUDA Fortran
+Java  C++  Python
+R
+Python  Perl  Fortran
+php  javascript  python  R 
+Matlab  Maple  Mathematica  Python  C++
+C  Java  Python 
+MATLAB
+Scala
+Python  IDL  R
+Python
+R  python  perl  bash
+c++  Python
+Perl  Python  Java
+C++ MPI  OpenMP
+Mathematica  R  Python  C++  PERL
+php  javascript  python
+R  Python
+Python  IDL  C++
+python  c  matlab  R  java
+python  R
+java  python
+C C++  matlab  IDL  Java
+R  C++  Python
+VHDL  verilog
+C  C++
+C C++  Python  TCL  R
+R  SAS  Python
+Matlab
+Python  Java  C++  MAPLE
+C  javascript  CUDA
+Python  c  scripting languages
+php  javascript  python  R
+python  javascript  java  c++
+Java C++
+Fortran
+Fortran  Python
+Matlab  C  Labview
+R  python  awk  other command line tools 
+C++  Matlab  Labview  Python  IDL   
+Matlab
+fortran  C++
+Python  Matlab  Fortran
+matlab
+Python  C  Javascript
+R   not sure what else 
+Fortran  Python
+Julia   Python   MATLAB   R
+statistical models using packages such as spss  mplus  r
+Python
+MATLAB  LabVIEW  C++  Python
+python  c++
+PHP  SQL  Python  Javascript
+R
+C++  Python  Java
+C++  Python
+R Matlab
+Fortran  Perl  Python  C  C++
+IDL  MATLAB  FORTRAN
+C++  Python  Java
+Java  Python
+Python  R  javascript  Perl  PHP
+C++14  Python  Perl
+Python  Matlab
+C Spec python bash matlab
+Python
+Fortran 90 95  C  C++  Python
+Python  IDL
+C
+SQL  PL SQL  python  java  scala
+C  python  perl  Matlab  C++
+python
+R  java  python
+R  MATLAB
+C  C++  Python  Matlab
+python c fortran java R
+Golang  pythong  javascript
+SAS  R  Python  MatLab
+FORTRAN
+python perl javascript
+python  R  Matlab  bash  C*  fortran
+VB net
+Fortran  Matlab
+C++ C#
+Python  Java  Javascript  R
+Matlab  Python  C++
+C C++
+Fortran  C  C++  Python
+unix  r
+R  Python  NetLogo  
+matlab   perl   python
+no idea
+Java  Groovy  CUDA
+Python  javascript  stata
+Fortran  C++
+MATLAB  Python  C
+R  python  C++
+python  perl
+Fortran  MPI
+python perl fortran c++
+c  c++  python  matlab
+C++  python
+python  R 
+C++  R  bash  python
+R
+python  html  css  javascript  fortran  matlab
+C++  Matlab
+C++  PHP  SQL  SAS  R  Javascript  Perl
+python C Java
+R  Python  Perl
+C
+C#  Javascript
+R  C
+C++
+matlab and c
+python
+Macaulay2
+C++  Tcl  CUDA
+CUDA   C C++   Python
+We dont use any programming languages
+C++  Python
+R  Netlogo
+fortran  python
+R  Python  C  JavaScript  IDL
+C++  Python  Bash
+Python  C
+matlab  python
+C  Python
+PERL  C++  R
+MATLAB  C C++
+S
+Python  Java  HTML  CSS
+C  C++  Java  Python  Scala  Verilog  Chisel
+fortran  python  c++
+fortran
+C++  Python  Matlab
+C  C++  Fortran  Python
+C++  Matlab  Fortran
+Mathematica  Mathlab  R
+Python  C  MatLab  R
+R  Fortran
+Python  Octave  C C++  Java
+Python  C  C++  Java  R  HTLM
+C  C++  Java  Python  CUDA  R  Matlab  PHP  Javascript
+assembly  ladder logic  C  C++  python  shell scripting
+C#  Javascript  Python
+python  perl  c++
+C++  Fortran  Python
+Matlab  C C++  Python  Go
+Python 
+C C++ python matlab
+R  Matlab  Basic
+Matlab  C++  Fortran  Python
+c++  awk  python  perl  java
+C++ fortran
+Python  C++  Matlab
+Python  C++
+Pearl  JAVA  C++
+C++  python
+R  Python
+C++
+IDL Fortran Matlab
+R  
+fortran  csh  c
+c  c++
+C  C++  Fortran
+python c++ BASIC
+Labview
+Java C++ C
+Fortran  C
+java  C  C++  Javascript
+Python  Mathematica
+python
+Python  R
+R
+Python  Go  Java  Javascript
+R Cpp Python
+Symfony  Angular2  PhP  Java  
+Fortran  C++  Python  Java
+Fortran  C  C++  Python
+C  C++  Python  OpenCL  CUDA  Go
+MatLab  Perl  HTML  Maple
+python
+perl
+C  C++
+Matlab  Python
+C++  CUDA
+Python  C++
+Matlab  Python  Julia  C++
+Python  Interactive Data Language
+Matlab  C  Spike2
+matlab  R
+C  C++ python
+C  Objective C  Python  C++
+C++
+Fortran  C++  Python
+c
+R   C++   Java   Matlab
+fortran  cuda c++  python  matlab
+Javascript Python Pascal C++ Java
+Fortran  C++  Python
+Python  Matlab  JavaScript  R
+C C++ Verilog
+Fortran 90  python
+Fortran 95
+CUDA C  C  C++  Matlab
+C++  python  F90
+python  R  fortran
+Python  C++
+Python  R  Matlab  Shell
+Fortran  C++  Java  Delphi
+Netlogo  R
+C  Java
+C  C++  MPI OpenCL
+C  C++  Fortran  Python  ANTLR
+C C++  CUDA  python  TCL
+C++  Python 
+filemaker  spss  r  python  in arcGIS   javascript  html
+C  C++  Fortran  Python
+Fortran  Python
+Data flow languages  i e Analytica    Data oriented languages  dbase 
+fortran  matlab  python
+python java c++ 
+SAS  R  JMP  C++
+R  Pearl
+Python  C++  Mathematica  Matlab  Labwindows  Labview
+The closest thing to a programming language that we use is STATA   but that's primarily a statistics package
+Matlab  Stata  R
+Fortran C C++ IDL Matlab Python
+MATLAB
+C  C++  R  Java  Perl  Python
+python  R  C  C++
+C++  Matlab  Labtalk  Python  Visual Basic
+for data manipulation and data set management   SAS  Stata  python  R
+python
+python  java  c
+javascript
+Python  Maple
+C C++  Matlab
+fortran  c++
+python
+R
+Matlab  C++
+Python
+fortran
+matlab  python
+python  java  c  c++  fortran
+Fortran  C++  Python
+Java  Python  JavaScript
+C++  MATLAB
+C c++ python
+C  C++  Python
+Fortran  C++  Matlab
+Matlab  python
+R  Python
+c FORTRAN Python IDL csh perl javascript
+C++ java matlab
+R  Python
+Python  perl
+FORTRAN  C++  MATLAB
+don't use programming
+C++  R  Matlab  mathematica
+python  c++  matlab  mathcad
+C  python  fortran  java
+Matlab  Fortran
+C  python  java  go  rust  ruby
+Matlab  C++  python  perl  overture
+C++  Fortran
+python  C  C++
+C++
+Python  Java  C  C++  R
+SQL  R  Python  Matlab
+None  we do not produce
+C++  Fortran  Python  Matlab
+C++  Python
+vb
+C  python  R
+Java  Python  MathLab  C C++ 
+C++  Python  JAVA  JavaScript  C#  
+r  python
+Stata  SAS  Fortran
+Java  PHP  Python  Go  JavaScript  Ruby
+C++  python  tcl
+Perl  bash
+R  Matlab
+Python
+Python  R  Matlab  C
+Unix  pearl  mother  
+Fortran  C++
+Fortran  C  Matlab
+Python  java  C++  Fortran
+Python
+Python
+MatLab  C
+python ruby perl C++
+Java  C++  C#
+Fortran  C
+python
+C++  Python
+Python  C  C++  FORTRAN
+java  python  C++  matlab
+Fortran  C++  Python
+FORTRAN  Matlab
+pyton
+C  C++  Python
+R  C  JAVA  python
+Perl Python C C++
+C++  Python
+mathematica  python
+R  Apache  PHP  MySql
+C C++  Python  Java
+C C++  Fortran  Python
+R C++ 
+C++  Python
+R
+Matlab  c++
+Matlab  C++  LabView
+Praat  
+Java  C++  
+Python  C++  R
+R
+C  C++  PHP  Javascript  SQL
+C  C++  java  python  FORTRAN  Mathematica
+fortran  python
+ 
+R
+Perl  Python
+Fortran 90  Fortran 95  C++  Python  Perl  IDL
+C  C++  JAVA
+C  C++
+Fortran  C++  Python
+python
+R  Python
+matlab  C++
+C  python  Julia  IDL
+Matlab  Python  C
+C  C++
+C++
+Python  Perl
+c++  c  perl  python
+PYTHON  MATLAB  C++
+Python  r
+php  hive   net  c#
+fortran 90
+Fortran  IDL  Matlab  R  Python  C  Java
+C++ C Python
+python  java
+Java  C  Python  PHP
+C++  Mathematica  Python
+matlab 
+C++  python  perl  bash  awk
+R
+N A
+Fortran
+Python  R  C++  Java
+Python  C  Matlab
+fortran  c  c++  python  perll  php  r  mathematica  
+C++  Python  CUDA  Javascript
+javascript  mongodb  html css
+Random Forest  Python  traditional regression programs  STATA  SPSS  SAS 
+c++  python  matlab  labview
+Python
+perl
+Matlab C++ Labview
+Matlab  C
+C+
+C  R  Python
+Nothing specific in common
+C++  MATLAB  Cuda
+C  Fortran  Octave  Python
+C++  Python  Java
+Matlab  Fortran  C++
+R  python
+C++  Java  Python
+R  fortran  
+R  python  perl  UNIX
+c#  python  scala  R  java
+c c++ Pythn java
+C  C++  Fortan  Python  Perl  Matlab
+C  CUDA  Assembler
+MatLab  R  Python  Java
+Matlab  Python  Medstate Notation  R 
+python
+C++  PYMOL  Java  R  LISP  Pascal  Modula 2  
+R  Unix  Python
+c c++  R  and Python
+C++ Python
+Python  FORTRAN  C++  C
+R  ImageJ Macros  Java
+Unknown
+Pascal  Visual Basic  python
+Fortran  C C++  may be Python Java
+C  python  fortran  labview
+C and C shell programming  C++  Fortran  Python  Octave MATLAB
+Fortran  C++  Basic
+Swift  C++  Java
+python cython C++ sage
+Python  Javascript  Java  C++
+Python  objective C  C  JavaScript  Java 
+Python  perl  java  c++
+python  perl  bash  R
+C++  Python  CUDA  JavaScript
+C++  VHDL 
+IDL  Basic  Fortran
+R  Matlab
+html and Dos
+Stata  R  Python 
+C  Python  Perl  Java
+numerous
+Fortran  C++
+python  fortran90  c
+fortran  python
+C++  java  python  Arduino
+C++  Python  CUDA  Verilog  Chisel
+Fortran  C C++  Matlab
+Java  C++
+SAS  STATA  R
+python  c++  php  sql  r
+C  Fortran  Matlab  Python  Perl  CSH
+python
+R  Matlab
+C++
+python  matlab  R  stata   some of which may not be programming languages but we program in them  
+C  C++  Python  Matlab  Mathematica  CUDA
+R  Stata
+R  C  mathlab 
+C  Java  Python
+Java
+R
+don't do any
+FORTRAN  UNIX shell scripting
+Python  matlab  
+Python  Ruby
+I don't do this
+C++  C#
+perl python R
+r  python
+C  C++  Fortran
+R  C++
+python
+C++  Python  Matlab
+matlab  python  C++
+Python  R
+python  java  c#  R  Matlab
+stata  matlab  gams
+Fortran  Python  Matlab  C
+Fortran  Python
+Sage  python
+C++  Python  Fortran
+Python
+java c c++ matlab python
+C  C++  Cilk Plus
+FORTRAN C C++
+C++ python
+R
+Java  C  C++
+R  Python  FORTRAN  Visual BASIC
+Java  Python
+Linux
+FORTRAN  C++
+C
+Python  R  Matlab
+Python  R
+Python R SQL JavaScript HTML CSS C#
+C  pyhton
+C++ Python
+C C++  python  Julia
+python  octave
+R
+C  python
+Python  C  C++
+C++  C  Python
+Python  Java  C C++
+R  Python
+R   SAS
+we mostly use matlab
+Python  C  C++  OpenCL
+R  bash
+R  python  perl
+Common Lisp
+fortran  python  matlab
+Python  C++  CUDA  OpenCL
+FORTRAN  C  C++  Python
+Python  R  Perl
+C++  bash
+Java  R  MATLAB
+Fortran  C  C++  IDL  Python
+C++  Matlab  LaTex  shell scripting  Python
+Matlab
+Fortran  Python  Matlab
+R  python
+Julia  C++  R  Perl
+Matlab  Visual basics
+python
+C++  Python  TclTk
+bash  r
+C  Verilog  VHDL  CUDA  OpenCL  C++
+R  MATLAB
+Fortran  Python  Matlab  C
+Cuda c++ python Matlab  Mathematica
+Python   Fortran   C
+R  python  ruby
+Python  Matlab 
+java  python
+Mathematica  Stella
+C  C++  MPI
+Fortran  python  r  matlab
+Python  C++
+LabVIEW  Matlab  javascript  python  C  C++
+C++  C  python  CUDA  Matlab
+python  c++  java
+fortran and c++
+C++  python  Fortran
+C  python
+R  C  Matlab  Javascript
+R  python  C  awk grep sed  maxent
+C++  Python  Perl  Shell  Awk  MySQL
+python  R  perl
+Python  Matlab
+Fortran  python
+Python  Fortran  C  C++
+java  php  visual basic
+C++ Python Java
+C C++  Java  Python  Perl
+Python  Java  C++  PHP
+R  Python
+c++
+python  perl  matlab  webPPL  java  javascript  R
+C  C++  python
+Python  SQL
+LabView  MatLab  Mathematica Fortran
+c++ fortran
+Python  VB Studio
+C  Java
+c  c++  r
+C  C++  Java  Matlab  Python  Labview
+Python  R
+R  Python  C++
+N A
+Matlab  psychopy  python
+PHP
+fortran  python  c  tcl
+C++  fortran
+Legion  Regent  MPI  OpenMP  CUDA
+Java  Perl  Python  C  C++
+C  C++  Java  Python  MatLab  VisualBasic
+Python  Fortran
+fortran c python javascrit
+python javascript php ruby R
+C  C++  Python
+C C++ Fortran Python
+python
+C C++ and Python
+Matlab
+C++  python  matlab
+C++  Fortran  IDL  MatLab  R  python
+C  Java  C++
+java  ascape  in past 
+python  bash  perl
+Swift  Java Android  Python
+Python  Bash  R
+Python  R  spark  etc 
+C C++  JAVA  SPARK
+python
+C++  Python  C
+Fortran  Python  Matlab  R
+c++  java  python  go  bash
+Fortran  Python  Matlab
+R
+Swift T C Java Tcl Shell Python R
+Python  C++
+fortran  C  java  matlab  java script
+C C++ java perl python ruby matlab R
+C++ python
+Fortran  C C++  CUDA
+C  Python  Matlab
+Python  Javascript
+Python  C shell  Fortran  C  C++ Perl Matlab
+c c++ python perl
+C  C++  CUDA  OpenCL  SDAccel  VHDL
+python  R
+C  C++  Python
+C++ python ruby maple
+python R
+C  C++  Java  C#  Python  Php  Javascript  Perl  Linux scripting  others
+Fortran  Julia
+C  C++  Python  Matlab
+R
+C++  PERL  PYTHON
+R  Matlab  BASH  Python
+R  Python  C++
+VB  C++   NET  SQL  Python  Java
+Python  Java  C++
+Python
+MATLAB  Python  C++
+C++  Java  Python
+MATLAB  LabVIEW
+Fortran  C C++  Python  R  Java  C# mono
+python  R
+Python  HTML5
+python
+Matlab
+R
+C++  Python  Mathematica  Fortran
+C  Python  Fortran
+python
+Python  Fortran 90  C  MATLAB
+C++  fortran  python  Matlab
+Python  IDL  C
+C C++  Python Java
+SAS  Python  Php  R  JavaScript
+python
+R
+c++  python
+Matlab
+C  C++  Fortran  Cuda  Python
+python  R
+Python  C++  Lua
+Python
+Java  Python
+scripting in python  R   limited C++ programming
+C++  PERL
+R
+Tcl  Matlab  C  Python
+C++  Python  Fortran 
+C  C++  python
+C  Python  Julia
+IDL  Matlab
+R
+C++  Python  MATLAB
+R  C++
+Python  Java  PERL  C++  JavaScript  Ruby
+Java  Python  C#  C++
+C++  Java
+python  java  javascript  matlab
+Python  FORTRAN  MatLab
+Python  C++
+Matlab  Python
+R  Python  Visual Basic
+C  C++  Java  Fortran  Python
+Matlab  Python  Fortran  bash
+C++  python  bash
+Python  Fortran  C  C++
+C++  python
+C++   C   Python
+MATLAB  python  C++  Java
+Matlab
+python  fortran  c++
+Java C C++ 
+Matlab  python
+C++  python  Julia
+javascript  c++  processing  php  python
+fortran  C++  python
+python  c  c++  cuda  tcl  bash
+Perl  R  Shell
+R  python  perl
+Visual Basic NetLogo
+C++  Matlab  Python
+Python  C++  tlk  bash
+Visual basic
+python  c
+Python  C  Fortran
+C++  JAVA  PYTHON  Mathmatica
+R  Matlab
+R  C  Python
+matlab  python  c
+C  C++  python  JavaScript
+Statistical software  R  SPSS  SAS
+Java  Python   php  MySQL  Thano  C++
+Fortran  Python  C  C++  Ruby  Bash
+java  C++  Python
+C++  Python
+C  C++  Phython
+fotran 77 and fortran 90
+C++  Matlab  Python
+IDL  FORTRAN  R  C  MATLAB  PYTHON
+java  scala  javascript  python  R  SQL
+Python  Java  C  R  MATLAB
+Python  C C++  Javascript  R
+R  SQL  Python
+Fortran   C C++  Python  Matlab
+C  C++  SQL  Python
+Machine Code  C
+r
+C++  Fortan
+Basic shell scripts in Linux
+Python  C++
+C  C++  Python
+MATLAB C Python R Perl
+C Java C++ perl python
+GAUSS R SAS C C++ Fortran Python
+Python  R  c++  FORTRAN
+C++ Fortran Python
+Python  Java  C  MySQL  PostgresSQL
+LabVIEW
+Java  Python  R  C  Perl  Matlab  bash  Javascript
+C C++
+Python  bash  awk  unix command line
+Matlab  R  C++  Stata
+MatLab  Mathematica  VB  Python  C++
+Python  R  C C++  Matlab
+C  Java  Python  Perl
+Fortran  Python  MPI
+MatLab  XPPAUT
+C  Python  Pascal
+C++ Python
+C++   Java  Python
+R
+Fortran  Matlab  G  National Instruments   Visual Basic  VBA
+Matlab  python
+Fortran  Matlab  Python
+C  C++
+Python  C++  CUDA
+MATLAB  R  python  C++  LabView
+Python  Visual Basic
+Linux   Python  Matlab  R
+Labview  Matlab  python
+Python  C++
+fortran  c  c++  python  cuda
+Python  C  C++  C#  Tcl Tk
+C++ Objective C Swift Python Java
+Python
+C++  Python  Fortran
+java
+pascal
+c++  perl
+python R SQL php javascript
+MatLab  software integrated C++
+Java  C
+C++  Java  JavaScript  Python  C#
+matlab  python  cuda
+C++  Fortran
+matlab  maple  macaulay2  bertini  singular
+C  C++  CUDA  VHDL  Verilog
+Python  Javascript  R
+Java  Scala  Python
+C++  Python  Fortran77
+Python  C  C++
+Python  PHP  SQL  JavaScript  Praat scripting  R
+C++ C#
+NCL  Python  GrADS  Fortran  shell scripting  R
+C++  Python  PHP
+PHP  Python  Java
+Fortran  Python  MATLAB  Bash
+C++   python
+C  Python  Java  Javascript
+Fortran  C++
+C  C++  FORTRAN  Perl  Python  Java  MATLAB
+C  C++  Python  CUDA
+Python  R  Matlab
+Python  bash  SQL  R  domain specific biochemical modeling languages
+matlab  R
+R  Python  C  Java  bash
+C++  Fortran
+Python  C  C++  Lisp  Mathematica  Perl  Mathlab
+Fortran90  C++  Python  with VTK libraries   Matlab  Korn Shell  Bourne Shell
+python r idl matlab
+C++  bash
+C++  C  Python  CUDA  OpenCL  VHDL  Verilog  Perl  Fortran
+Matlab  Python  FSL  Unix  Scripting  R
+C++
+Matlab  Python  R  C C++
+Python  PERL  R  Bash
+responsibility of other team members
+Fortran  JAVA  Python  C  MATLAB  LabView
+Fortran  C  C++  Python  recent 
+C  C++  Python  Ruby  Go
+Fortran
+FISH  C++  R  Matlab
+C  Matlab
+C  C++  perl  R  python  javascript
+C++  Matlab  python  C
+FORTRAN  R  Python  C++
+python  matlab
+visual basic
+MatLab  FORTRAN
+Matlab  Python  C++
+Matlab  Fortran  Python  Igor
+C++  Python  FORTRAN
+Python  FORTRAN
+R  Java  Objective C  C++
+C  Python  Matlab
+Java Python Prolog
+FORTRAN  JAVA  C++
+Perl  Python  Javascript  Java  Ruby  PHP  Groovy  R  Bash
+Python  C++  Java
+fortan
+R  Java  Python
+Python  R
+Python  R
+C++  CUDA  Python
+Fortran 90  C++  Matlab
+C  C++  Python  Java  Perl
+Primarily Matlab 
+We mostly use matlab  and there are two shorter codes in python  and an open source wave simulation in fortran  
+Java  Python   C++  R
+shell scripting  matlab  python  R
+Julia  C C++  Fortran  CUDA  Python  R  Stan  perl  OpenMP  OpenACC
+C++  Python  C
+PHP  C  Java  Javascript
+python  perl  C  C++  shell programs  bash   formerly Fortran     
+python  R  perl
+Python  Fortran
+Fortran 2008  C++  Java  Perl  Python
+Arc  Python  SAS  Stata  R  Matlab
+fortran c c++ python
+Python  C  Java  Matlab
+C  C++  Python  Java
+C  C++  Python  Julia
+Matlab  Mathematica
+R  python  perl  bash
+Java  Python
+Fortran  C++  Python  root  as distinct from C++   perl  C
+STATA   SAS   R   UNIX
+Python  perl
+VisualBasic  R   NET supported languages  Java  JavaScript  PHP
+visual basic  fortran  
+python  R  perl  C  java  mysql
+C  C++  python  perl  VHDL
+Perl  Python  R  java  C++  
+R  MATLAB  Python
+Go  Python
+python
+stata  r  s  python  C++
+C C++  Python
+Prolog  Java  C  Python
+SQL  Java
+Phyton  C++
+NA
+MATLAB
+Java  Python
+C  C++  Python
+python  c
+Python  Java  R
+python C++  matlab fortran
+Fortran  C  python
+matlab
+Fortran  C  java
+Matlab  Python  Mathematica  Maple
+R  python  MATLAB
+Matlab  Fortran  C++  R
+C++  Python
+sql
+python
+Python  IDL
+C  C++  Python  bash  R
+c++  fortran
+R  MatLab
+Pearl  Java  
+python  matlab  java  clojure  lisp  C++
+C++ FORTRAN Python
+R
+C  C++  Fortran  Python  Lua
+Python  Cpp  matlab  mathematica
+FORTRAN C C++ BASH PERL
+Python C++ javascript bash R
+c  c++  python
+python
+python  c++  fortran  mpi
+C++
+R
+unix shells  perl  python  tcl  fortran  c++
+Python  C  Java
+Matlab  Fortran
+C++  Python
+C  C++  MATLAB  Python
+Fortran  C++  
+C   C++   Python   GLSL
+R  python  Mathematica  Julia  IDL
+Matlab  Python  R  C++
+Fortran77  Ratfor  Unix Shell Scripts  Python  C  Matlab  R
+R
+R  python
+Java  Python
+C++  Java  Python  Wolfram Language  Mathematica   Matlab
+Java  JavaScript  Scala
+C++
+C  C++  Python  Bash
+Stata  Python  ArcGIS
+Python  R  command line
+C++  bash  python  xml 
+C++ Python Matlab R
+Fortran  C C++  Python
+C  C++  OpenMP  MPI  CUDA  R
+R C SQL VBA Python
+R  Splus  Fortran  C++
+C++  Java  OpenACC
+Python  bash scripting  Perl
+C++  C  Java  Python  Lustre
+C++  Python
+python  sagemath   R  C++
+Primarily C  C++  FORTRAN  Python
+Fortran Python C++ CUDA
+Python  JavaScript
+C++   Python   Julia
+C++
+Python  R  Common Lisp  Julia
+C++  Python  R
+fortran  c  c++  python
+matlab  c++
+Unity  Drupal
+GEMPAK packages & NCL  fortran with NCAR grpahics  some MatLab  GrADS
+C C++ Objective C Python PhP Javascript
+R  Matlab  C++  python
+C++  Verilog
+C++  Visual Basic  FISH  custon code for for FLAC 
+C C++ Matlab Python Fortran
+perl  python  R
+Common Lisp  ACL2
+python
+Fortran  Python  C++  Awk
+Phyton  Fortran  C  C++  Java
+Matlab  Labview  python
+C  Fortran
+Fortran  C  C++
+Matlab  Python
+python  unix  R  perl
+Python  R  Perl
+C++
+Python  C++  Fortran  Bash
+R
+ColdFusion
+Python  JavaScript
+Python  Java  Javascript
+C  C++  Fortran  python  R
+python
+R
+Python  Matlab  Fortran
+Python  R  Matlab
+C  C++  MATLAB  Python
+C  C++  Python  Fortran  MATLAB  Assembly  CUDA
+MATLAB
+phyton
+python perl fortran
+C C++  Python
+Python  R
+C++  Java  Python
+Matlab  C++  Python
+C++ Java
+Magma  unix
+Python
+MATLAB  julia  python  STATA
+C  pascal
+python
+c  c++  python 
+R  perl  python
+don't know
+Labview  Matlab  python
+Python  Mathematica Fortran c++ matlab
+Perl  bash  R
+python
+fortran  NCL  python
+c  python  matlab
+Matlab  C  Python
+python  javascript
+python  c++
+it depends
+python  C
+JavaScript  Java  SQL
+IDL  Python
+Mathematica  Matlab Octave  Python  Labview
+Python  R  Pascal  Java
+fortran  matlab octave  mathematica
+Python  C++
+C  python
+Fortran  C  C++  Python
+Python  Mathematica 
+Mathematica
+Fortran  Matlab  python
+R
+Mathematica  Fortran
+java  python
+Python  C  Fortran  Java
+fortran  C++  python
+R  mathlab  
+python  rust  C  mathematica  C++  MATLAB
+C  C++  Python
+python  C++
+Matlab  Python  Fortran  NCL
+C C++  CUDA  OpenGL  GLSL
+Java  python  c++
+C++  Python
+C  C++
+R
+mostly python
+Python  Java  Javascript  C C++  Octave  MATLAB 
+Fortran  C++  python
+Java  C++  Perl  PHP  Python  R  Javascript  Ruby
+C  Matlab  
+C  C++  Objective C  python
+C++  java  python
+C  C++  Java  python
+Ruby  Go  C  C++
+Java  C++
+FORTRAN
+Macaulay2
+R  python
+Python  JavaScript 
+FORTRAN  C  Python  MATLAB
+C C++ Matlab
+Qualtrics
+Fortran   C   C++
+fortran  python  c  c++
+C  R  C++  Swift
+C++  matlab  labview
+C  C++  Fortran  Python  Matlab  Mathematica
+MATLAB  C  C++  R  Julia  Python  CUDA  Fortran
+C++  CUDA  C  JAVA
+Maple  Fortran  C
+python  d3  R
+C  C++  CUDA  Python
+Matlab  C
+python
+Fortran  MATLAB
+C++  python  matlab  fortran
+C  C++  python
+C++  C  Fortran
+R   python 
+Fortran  C++  Python
+It is not a language  but a statistical program that  Stata  that includes some programming
+C  C++  Java
+none
+R  perl  python
+fortran python c
+perl  python
+Fortran  C  Python  Matlab
+perl  phython  r
+Fortran  C  C++  Python
+We don't use much native code but rather Matlab and Mathematica 
+Java   NET  C#  LabVIEW
+python  verilog  vhdl  c  c++
+none
+R  python  shell scripting
+fortran95 python 
+R  python  bash
+Fortran  Python  C
+Python  R  C++  MatLab  SQL
+C++  Fortran77
+C#  Java  javascript
+C  C++
+python  matlab  shell scripts
+Matlab  C++
+Fortran  C  C++  python  java  php
+R  python
+MATLAB  Python
+some scripting languages  BioPerl 
+C++  GLSL
+Python  Javascript  C  C++
+Python  SQL  PHP  JavaScript  R  Java
+R  MATLAB  Python
+IDL  Python
+Python  Go  SQL  JavaScript  Node js  C C++  R
+fortran  python  javascript
+Fortran
+Python  Java  C  C++  R  Ruby  Haskell  JavaScript 
+R  python  perl
+Matlab  Fortran
+C  C++  Logo  Python  Wolfram
+Python  C++  Fortran  IDL
+MathLab  LabView  Mathematica
+Mathematica  python  IDL  Fortran  C++
+R
+Python  matlab  
+Fortran  C++  Python  R
+FORTRAN  C++  Java  Python  MATLAB
+C++  Python
+R  C  C++  Perl
+c c++ fortran java scala groovy c# f# python r
+Python  Perl  Java  C  C++  Javascript
+C++  F90  MPI
+python  c++
+Python
+Go  Python  Mathematica
+R   python
+Wolfram Language  Matlab  R
+HTML  spss  python 
+python  scala  go  javascript
+python  java  c  c++
+Matlab  Python  C++
+R  C  Python
+matlab  C
+C  C++  R
+Java  Python  Perl
+Fortran  Perl  php
+Python  C++  C
+Python  C  Fortran  C++  Java
+C  C++  CUDA  OpenCL  VHDL  Verilog
+R
+C++  Python  C
+Java  R  python
+R  Python
+R
+C++  Python  
+Matlab
+python   sage   c++
+C++
+C  fortran  python
+C  C++  OpenMP  SciPy  Code conversion of some Fortran to C  CUDA MPI  P Threads 
+Stata  SAS  R  Python
+R  excel  VBA   Matlab
+Python  Matlab  Fortran  R
+python  cuda  c++  fortran  perl 
+Standard ML  Haskell  C
+fortran  python 
+python  bash
+C++  Python
+python perl R
+Python  Java  Scala  C++
+C  python
+Python  C C++
+Python Perl Shell scripting R Javascript
+C  Fortran  Perl  Python  BASH
+c++
+IDL  python
+Javascript  python
+Fortran  Python
+FORTRAN  MatLab  Python  Excel  Abaccus  Lingo  etc 
+C C++  Python  Matlab
+awk
+python  C C++  shell  CUDA
+python
+S+  Python  fortran  
+FORTRAN  python  Java
+C C++ python
+C  C++  OpenCL  Python  PHP
+Matlab  C  Fortran
+C++  Python
+R  C
+fortran  C++  python  matlab
+R  Mathematica
+Python  SQL
+Fortran 90  Matlab
+Matlab  C
+MATLAB  Java
+Matlab  maple
+C++ Python VPython
+Fortran  C  R  Python
+Fortran  C++
+python R linux
+Fortran  Python  Maple
+C Python 
+MATLAB  Python
+Python  R
+C  C++  C#  Java  Python
+Python  R
+Python  C  Postgres
+syntax
+IDL  FORTRAN
+Too many to list 
+c++ python
+Fortran  C  python
+AWK  python  PERL  R
+IDL
+FORTRAN90  Python
+R  python
+IDL  C++
+Python  Perl  Java  C  C++
+Python  LabView  IDL
+PHP  Java  SQL  HTML  CSS  gfortran
+Java  C++
+R  minimal python  some java enabled HTML  latex  CLAN  PRAAT 
+NA
+Fortran
+Fortran  LabView  C++
+python  IDL
+Java  C  C++  Python  shell
+Python  C  JavaScript  matlab
+C  C++  Python  Fortran
+C++  Java
+Python  IDL  Fortran  R
+Fortran Minitab SPSS R Python Excel
+Mathematica  C++
+Mathematica  R  Python
+C  Fortran 
+python
+Python  R  C  MATLAB
+R  sas
+Fortran  Python  C++
+C++  IDL
+C  C++  Java  Python  Perl
+C  C++  Java  scripting languages
+Python  Matlab  Igor Pro macro language
+R  Fortran  C  C++  Python  Ruby
+Matlab  python  mathematica  labview
+Python  R  Javascript  SQL  HTML  CSS  PHP
+Fortran  Basic  C
+fortran  visual basic
+C  C++  Python
+R  Stata
+r   python
+visual basic  phyton  c  pascal  fortran
+Fortran C++
+C  C++  Java  Python
+Python
+Gauss  R
+Python  R
+Java  Android  C#  Python
+Perl  Python  R
+python  java  R  SQL
+Ruby  Python  R
+Matlab  Python  C++
+IDL  shell scripts  FORTRAN
+Python
+R  Python
+Python  C++
+Python  C++  R
+Java  Processing  C++  CUDA
+Stata  Python  R
+Java Groovy Python R
+fortran  perl  awk  C##
+java  javascript  R  php
+Mathematica  C  C++  Python  Java
+MATLAB  R  NetLogo
+C  C++  R  Python  Fortran  MATLAB
+mostly java and python
+c++  matlab  c#  python
+R
+C  java HTML CSS JavaScript php python R
+matlab  python
+python  r  javascript  C  java
+R
+C python
+Python  matlab
+Python  C  C++  R  MatLab
+R  Matlab  Python
+java  python
+Fortran  IDL  Python
+Python 3  Fortran
+c fortran python perl awk
+Python  Java  C++
+javascript  python  php  Swift
+Fortran 95
+python
+python  R  
+fortran python matlab C++
+C++  Java  
+C++  fortran
+Matlab  python  tensorflow
+Python  JavaScript  C  fortran
+C++  python  matlab
+NetLogo  Fortran  Java  Python
+Java  Python  UNIX
+python
+R  Fortran  Pyton  C+
+Mathematica  Python
+Python  Pearl
+Mathematica
+Python  linux shell scripts
+Not really languages  but programs built on Python scripts 
+C  C++  python  Java  Shell  JavaScript  PHP
+Java  C++  Matlab  others  whatever the grad student prefers 
+Fortran  Python
+C++  Fortran  Matlab  
+Lisp
+IDL  Python
+C++
+Fortran  IDL  Shell scripting  Python  HTML
+java  matlab  python
+fortran C python
+Python  Labview
+Python  SAS  Stata R
+C  C#
+Python C++ C
+python  C
+Matlab  python  Labview
+Python  R  Perl  Git  C
+Python  C  Java  Rust  JavaScript  OCaml
+Python  Perl  C  C++  MATLAB  R  Julia  awk  sed  bash
+C  C++  Python
+C++  Matlab  Android
+Ruby on Rails  VB  Java Script
+python  C  C++
+R  Matlab  C++  Mathematica
+R
+Fortran  NCL  Matlab
+R
+Pyton  Java 
+Python
+Python  C
+R
+C++  MATLAB  Python
+Unix  R  Perl
+C  python  mathematica
+Java  Python  Matlab  R  Javascript  Ruby  Bash
+C+  perl  
+python  fortran  C++  C  assembly  swift  java  r
+C  C++   FORTRAN   Python  Java 
+c  python  gap
+Python  Java  RUST  R
+C++  Python
+R
+Matlab  Python  JavaScript
+C  Fortran  Matlab
+C  C++  Python  Shell
+none
+C  C++  Fortran  R  Matlab  php  tcl tk  python 
+C++  Fortran  Python
+python  java  C++
+C++  Java
+Fortran95  c++  python
+C#
+C++
+R  SPSS script
+Matlab  python
+N A
+pythpn  IDL  C++
+C  C++  Python
+Java  Objective C  Visual Basic  Python  Javascript  Swift
+C++  CUDA
+Python  Mathematica  MATLAB
+FORTRAN  C++
+Python
+C  swift 
+R perl python bash scripting
+C  Java  Python
+Stata  SAS  SPSS
+Stata
+Python by one grad student  but mostly just small projects in  Labview and Igor  which might not be considered programming 
+R  bash  perl
+C++  Python
+None
+FORTRAN  python  Matlab  S Plus
+FORTRAN  PYTHON  C++
+R  C++  Python
+R  c++
+Stata  R
+Fortran2003  C  Python
+Python  R
+python  spice  matlab  excel
+C++  Fortran
+R  python
+C  C++  python  lua
+Java  Coq  Lean  Scala  Javascript  C++  Fortran
+Python  Java  go  C++  C  Javascript  SQL  bash  perl  ruby  plus others
+matlab  python  
+C  C++  Fortran90
+We don't write software   We write code for data analysis in R  SPSS  STATA  SQL 
+MATLAB  C  Python
+Java  JavaScript  Perl  Python  R
+Python C C++
+c#
+Fortran  C++
+Fortran  C  Matlab  Python
+NetLogo
+NA
+C
+java  python  C++  lisp  others as needed 
+C++
+Python  R  scala  java  matlab
+Fortran  IDL  python  C
+Mathematica  C  Python  MatLab
+C++  Fortran
+C
+FORTRAN  C  C++
+Matlab  IDL
+Fortran
+C++  python
+CUDA  OpenCL  C++  Verilog  VHDL
+C++11  CUDA C  PTX  scrpting languges 
+MATLAB MATLAB toolboxes C Python javascript HTML R
+R  Matlab  Excel VBasic
+FORTRAN  Mathematica
+matlab  labview  C  verilog
+C++ Java
+C  matlab
+mostly scripting in Maya Embedded Language  MEL   Matlab  and Igor
+Python  Perl  Java
+R  Python  Java  JSON
+C  Visual Basic
+python  c  c++  php  matlab  
+Sage  Python 
+C++ java common lisp
+Python  C  IDL  Fortran
+R
+R
+R  python  SQL
+R
+Matlab  Perl  C  C++  PHP  Visual Basic  bash
+Java  React  R  Python
+Matlab  Python  Perl  Java  C++
+C  Fortran 77  Fortran 90  and Python mostly  others as needed  e g  various HDLs for FPGAs 
+Pascal Delphi
+python  R  matlab
+MATLAB  Python  R
+Python
+Python  Perl
+many
+Matlab  C  Python
+python  javascript
+Fortran  MatLab  IDL  Python  a little C++
+Python   C++   C   Fortan   Perl
+R  Python  MATLAB Octave  C C++  Java
+C  C++  Perl  Mathematica  Matlab
+Haskell
+R  python 
+C  C++  Java  Python  Verilog  VHDL  OpenCL  CUDA
+fortran  matlab
+C
+C++  R  Python
+Fortran Python R CUDA OpenCL C C++
+MatLab Mathematica C
+R
+FORTRAN  C  C++  Python  MATLAB  Igor Pro
+Python  R  MatLab
+perl  C  C++  bash  java
+We only use commercial software
+C++
+C++  python
+Python  R
+python
+Python  MatLab  Mathematica  R  SAS
+Python  C++
+C++ Python
+Python  C++  C  Java  Matlab
+Matlab  Python  C++
+labview  python  C++  IDL
+Matlab  Fortran  R  Python  PL C and derivatives
+python  R  perl  C++  Linux
+Fortran  PI   Python  students 
+Python  R
+C  C++
+Fortran  Python  R
+C++
+C++  Python  Matlab  CUDA
+C++ Pythobn
+C  Fortran
+MatLAB  R  fortran
+Matlab
+FORTRAN  C  MATLAB  PYTHON
+R  Pearl
+c++  python  shell scripting  matlab  little fortran
+R
+C++  Python
+c++  python  VHDL  Java  FORTRAN
+R
+It varies  I do not know 
+Python  NetLogo  R
+C++
+sql  html  javascript  python
+Fortran  C  Python  Labview  Matlab
+Stata
+C  Python
+Matlab  FORTRAN  C++
+C++  R  Python
+C++
+Python  R
+C++ F90
+c++   python  
+c  r  python  c++  
+FORTRAN  PYTHON  IDL
+fortran  python
+stata  inquisit  qualtrics  python
+python
+R  perl  python  java
+none   mostly doing mathematical modeling with ODEs in Matlab 
+fortran  c  python  sql
+C++  Perl  Python
+Matlab
+C++  some python
+APL  Python  Perl
+IDL  MATLAB  Python
+c  c++  java  fortran  javascript  python  perl  bash  php  xsl  matlab  go
+LInux
+MATALB
+Fortan 77   C++   python
+Ruby  Javascript  Java  Prolog
+Fortran  python  C++
+visual basic  C
+C++ python
+I use C++
+Matlab  C++
+python  C
+R  python  matlab
+Mathematica  C++
+R  Sage
+python  matlab  perl  R
+R  MATLAB  Python
+c  c++  cuda  python  fortran  idl
+Python  R  SQL
+Matlab  Mathematica
+Matlab  Mathematica  python  C++
+Python  PERL  C++  R
+C#  Java  python  php
+Java  Javascript  Typescript
+C  fortran
+C+  python
+C++ C JavaScript AWK Perl R bash
+matlab  C++  julia
+IDL  Python  Fortran  C
+C  C++  CUDA  Chisel  OpenCL  Fortran  Matlab Octave  Julia  Chapel  Perl  Python  R  JavaScript  and others
+Mathematica  Matlab
+python
+VBA  Excel
+C++  Python  Shell
+Mathematica  Pyhton
+C  C++  Python  Matlab 
+Matlab
+java  python  c++  javascript
+Python  C  C++
+Python  C
+C  C++  Perl  Python  PHP  Linux shell scripting  Racket
+python  R  IDL  fortran77
+C++  FORTRAN
+MATLAB  FORTRAN  IDL  PYTHON  C++
+C C++  Fortran
+fortran  python  shell scripting  c  matlab  R
+C  C++
+Pyton  Matlab  Fortran  C
+Perl Python
+perl  R  python
+Python  C++  Sage  Maple
+R  SQL  PHP  C  Java
+c++  python
+C++  Python  R
+Fortran  Python  C++
+C++  Fortran
+C++  Python  Fortran 90  Matlab  Mathematica
+Python  R
+C  C++  python  matlab  mathematica
+C++  Python
+C++  C  Python  Fortran  Matlab  R  Mathematica
+C++  Matlab  CUDA  OpenCL
+C++ Python
+R  JavaScript  probably others I don't know about
+Python  r
+R
+R
+linux  python  R  java  C  C++  CUDA
+C  Python
+IDL  Python  Fortran  C
+C  C++  Fortran  python
+R  C  C++  Python
+Perl  Python  Java
+matlab  python
+R  python  STAN
+python  c++
+Stata  R  SAS
+Python  R  unix
+R  python
+C  C++  Java  Phyton
+Python
+matlab
+C  Python  Matlab
+C  python
+Python  Perl
+Python  Javascript  C++  Java
+C  C++ SciLab  Matlab  Python  Java
+python
+python  R
+Matlab  Python  CUDA  C
+Fortran  Matlab
+Many depending on the problem  python  java  javascript  C  C++  etc   
+C#  Javascript  Python  Java  Objective C
+Python R bash
+ C++  Python
+Python  R
+matlab  r  stata
+C  C++  Matlab  Fortran  CUDA
+fortran  C
+C  Matlab  R  Java  Python
+Visual Studio  VB  C++   python  Java  Fortran   MatLab  R  
+Matlab  Fortran  UNIX shell scripting  C  NCL  Python  IDL
+Fortran 77  Perl 
+Fortran
+M  C  C++  Verilog G
+Stata
+Matlab  R
+
+Q12   Which external software packages does your research group use  Please give a comma separated list 
+Which external software packages does your research group use  Please give   
+Amber  ADF  Gaussian  Q Chem  PSI4  Molpro  Orca  Terachem  NWChem  VMD
+Lisrel  Prelis  Gauss  Matlab  Mathematica  Stata  SAS  SPSS  S Plus  R  GeoDa  Surfer  MAPublisher  ArcGIS Desktop  ArcGIS Pro  ArcGIS Online  ArcSDE  MySQL  Oracle  SQL Server  Postgres  PostGIS  Illustrator  PhotoShop  Visio  FontLab  ANT  maven  make  IntelliJ IDEA  NetBeans  Visual Studio  CruiseControl  RequestTracker  Subversion  JUnit
+Clustal Omega  Muscle  Phylip  Treeview  Microsoft Office
+CHARMM  Q Chem  Schrodinger  PSI4  ORCA  OpenMM
+Mathematica  Matlab  Boost
+condor
+Matlab  Mathematica  SAS  Tableau
+Gaussian  Digisim
+SAP2000  ABAQUS  MatLab  Excell
+SPSS
+R  SPSS  ESRI  QGIS  Filemaker
+NS3   Castillia
+Crystal14  VASP  ADF  Gaussian  QChem
+GAUSSIAN  AMBER  TINKER  PHENIX  PyMol  COOT  ACCELRYS  HKL2000  D*TREK
+Chombo VisIt HDF5 CGNS ROSE compiler GNU Linux OS openmpi slurm
+R  SPSS  Stata  HLM  mplus
+Matlab  WRF [Weather Research and Forecasting model]  GrADS  R
+R packages  
+Matlab  Maple  Mathematica  MS Office  Adobe suite
+SPSS  Excel  NVivo  Qualtrics
+MATLAB
+Z3
+AstroPy  IDLAstro
+Gurobi  Cplex  Knitro
+BWA  samtools  angsd  long list of R packages specific to different ecological  genomic and other analyses
+ROOT
+MUMmer  bowtie  BLAST  bowtie2  SAMtools  GATK
+Galois  Boost Graph Library  R  igraph
+Mathematica  R  PAUP  PHYLIP
+drupal  dataverse
+revBayes MrBayes BEAST *BEAST RAxML PAUP PAML UCLUST Trinity HMMER Geneious
+numpy  matplotlib  scipy  AstroPy  LSST Science Pipelines
+Matlab  R  XCode
+SPSS  Stata  NVivo  MS Office  Adobe
+SAS  STATA  SPSS  R  ARCGIS
+MFC Visual Studio  Matlab  IDL  Java
+R
+different platforms available from Xilinx and MATLAB and other vendors 
+Matlab  Stata  
+SPSS  JMP
+SAS   Blender
+Matlab
+MS Office  R  SPSS  EndNote  Photoshop  SigmaPlot
+CoCalc  Sagemath   MaCauly
+node  unity  d3  Jupyter
+CrystFEL  CCP4  Phenix
+bowtie2  trinity  skewer  gsnap  stampy  hisat2  star  mothur  trimmomatic  htseq  deseq2  edger  rapclust  rapmap  snpeff  gatk  samtools  vcftools  picard tools  blast  interproscan
+ROS  openCV  tensorflow
+R OpenNLP UIMA Gephi GraphViz VTKit
+Turbomole
+CP2K  Gaussian  LAMMPS  GROMACS
+Matlab  Excel  Labview  Cortex  OpenSim  SIMM
+R  RStudio  Shiny  Praat  Transcriber  DARLA  Excel
+matlab
+FDS  Star CCM+
+SAS  SPSS  E Prime
+Biological Rhythms Analysis Software System  Vector NTI  MetaboAnalyst  Velvet assembly algorithm  Mauve aligner  PATRIC  SPAdes assembler  
+LAPACK  HDF5
+various external Julia packages   MATLAB toolboxes
+spss  mplus  r
+Namd Gaussian Schrodinger openeye autodock Sybyl Amber 
+Ripple Grapevine  Blackrock Cerebus  MATLAB
+WESTPA  AMBER  NAMD  GROMACS
+R
+Not sure
+PyBind11  BLAS  LAPACK  MongoDB
+R  Matlab ODV
+LAPACK  BLAS 
+Bertini  Macaulay2  GAP  Sage  Maple  Matlab
+PostgreSQL  UnboundID LDAP SDK for Java  Tomcat  Jetty  Apache web server
+mariadb  postgres  postgis  nginx  dancer  nodejs  expressjs  ionic  postgis  *nix environment
+Charm++  Petsc  Boost  Blaze  Brigand  Catch  jemalloc  CMake  papi  SPHEREPACK  FFTW  libxsmm  yaml cpp  blas  lapack  hdf5  gsl  mpi  openmp
+trackpy  pandas  matplotlib  ImageJ  StreamPix
+imageJ paraview matlab gcc gnuplot rhel7 epics spec
+IRAF  IDL  PyRAF  Astroconda
+Mathematica MatLab
+deMon2K  NWChem  QuantumEspresso  AbInit  FEFF  PROFESS  VASP
+IDL
+matlab
+pyspark  aws
+LAMMPS  xmgrace  VMD  valgrind  gcc
+Vienna RNA  Kinefold
+a suite of next generation sequencing analysis software
+None
+paraview mysql R sac hdf libraries pegasus htcondor 
+Docker  Kubernetes
+SAS  R  Python  MatLab
+postgresql apache emacs LaTeX
+too many to list
+Excel  SPSS
+Surfer  SeisUnix
+CGAL  Magics  Netfabb
+ROS  SimpleNLG  scikit
+Matlab toolboxes
+R  CPLEX
+Pylith  Abaqus
+STACKS  Trinity  Colony 
+R  Python  NetLogo
+Dedoose
+Gaussian  TINKER  OpenMM  NAMD
+Matlab  Mathematica
+arc GIS  mapbox  python packages  Q GIS
+N A
+LIGGGHTS  LAMMPS  Project Chrono
+gsl cgal boost cuda
+bowtie  tophat  cuflink
+Silo  HDF5  SZIP  Lapack  FFTW  MPI  Hypre
+GROMACS Gaussian Amber LAMMPS GAMESS NWChem WebMO Chimera Avogadro Jmol
+matlab  solidworks  ansys  visual studio
+GEANT
+many packages at Galaxy   Tuxedo Suite  admixture  lamp ld  
+Stacks  vcftools  samtools bcftools  structure  bwa  bowtie  orthomcl  blast  Trinity
+microsoft office  adobe illustrator  qgis  arcgis  sequel pro  pycharm
+Matlab  GAITRite
+Microsoft Visual Studio C++  Perl  PHP  Oracle MySQL
+gurobi  numpy  iverilog  vivado 
+Beast  ms  migrate  ima  muscle
+OpenMPI  LAMMPS  HPCG  mpich  mvapich
+Too many to list
+samtools  bowtie  GATK  vsearch
+MALA B
+matlab and SPSS
+r
+Matlab   various GPU libraries  e g   CUB  ModernGPU 
+MS Word  SPSS  Atlas ti  ArcGIS
+Matlab  Maple  Singular  MPFR  GMP
+R  Netlogo
+ABAQUS  MATLAB  ANSYS  LS DYNA
+ArcGIS  ENVI
+OpenFOAM  ARCHES
+e4d  tetgen
+ansible  Spark  angr  LLVM  KLEE  databases
+sas  stata  arcgis
+MAPLE
+R Matlab Abaqus
+Corel
+Gaussian 
+Wordpress
+TensorFlow  PyTorch
+mathematica  maple  root
+Cantera  Python  Matlab  Chemkin  Fluent
+Lammps  Gromacs  NAMD
+Comsol  Abaqus  LAMMPS
+Erdas Imagine  ENVI  ArcGIS  QGIS  EnsoMosac  ECognition  StructureFromMotion  ImageJ
+SeaDAS  Matlab  IDL  Ferrett
+CPLEX  JuMP  AMPL  TetGen  TetView  Triangle  
+R  BLAST
+Tensorflow
+extensive use of Linux libraries  Docker libraries  other things as needed from git
+Unity3d  Maya  3D Studio Max  Houdini  ZBrush  Substance Designer  Substance Painter  CytoScape  Gephi  R
+matlab
+LAMMPS  VASP  Quantum Espresso
+Mumax3
+R  Stata  SAS 
+MKL atlas root python matlab cuda tensorflow
+Comsol  matlab
+Microsoft Office  Grapher  DeltaGraph  ArcGIS  Matlab
+Matlab  OpenFOAM  Flow3D  Paraview  FIJI ImageJ
+audacity  kaldi  praat
+Gaussian
+Matlab
+AxParafit  Gromacs  Drupal  several Python packages
+Matlab  
+NGSolve  MFEM
+ChemDraw  Gaussian  Spartan
+I wrote my own codes 
+Sigmaplot  Systat  R  Pclamp  Excel  Adobe  
+matlab  gmt
+none
+Abaqus  Ansys  Comsol  Crack3D
+SYSTAT  SAS  R
+Facegen
+BoxLib
+R  MatLab  Scikit
+MEEP  MPB  Lumerical
+avizo  matlab  larch
+Stata  TSP
+Microsoft  R
+JMP
+Canu  GATK  BWA  Mazurka  Qiime  Metaphlan  many others
+tidyverse
+Eclipse Modeling Framework
+IDL  Mathematica  Matlab  astronomical community public tools  astrolib 
+Gaussian
+Molpro  NWChem  Gaussian
+architectural simulators  runtime libraries  DNN frameworks
+MatLab  Maple
+Gaussian  Amber  NWChem
+sage  stata
+mothur  rast  mg rast  artemis  clc genomics 
+Matlab
+Sleuthkit  Snort  Silk
+Various Python packages  FeniCS  deal II  Matlab Reservoir Simulation Toolbox
+CASA  IDL  Miriad  various Python packages
+R  Matlab
+Matlab  Spike2
+HTCondor
+IDL SAOimage
+Elmer  Comsol  FLAC  Matlab  Mathematica
+Gaussian  CFour  NWChem  Psi4
+Matlab  Mathcad  Excel
+SAS   SPSS   JMP   Mathematica   Maple
+WRF  FLAC3D  Comsol  Dualsphysics
+SPSS  Stata  HLM 6  NVivo
+Excel mySQL Qualtrics
+CESM  CLM  ParFlow CLM
+FreeSurfer  Harvard   FSL  Oxford   
+ferret  matlab  IDL
+ROMS  Regional Ocean Modeling System   myroms org 
+jupyter  matplotlib  epoch
+CMAQ  WRF  CLM  SMOKE
+Python libraries  experimental C++ code
+FSL  SPM  AFNI  Freesurfer
+SPSS  Netlogo
+spss  r  pc ord
+OpenCL SDK   CUDA SDK
+netCDF  GCC  Autotools  GSL  Opendap  Emacs  GDB
+SCIPY  NUMPY  matlab  
+Linux  GPU packages
+arcgis  spss  filemaker
+PETSc  ParMETIS  CuBLAS
+GROMACS
+GIS  RapidMiner
+Tecplot  1DTempPro  SUTRA and other groundwater software available from the USGS  COMSOL
+JMP
+R  Excel  Elan  LimeSurvey
+STATA  Word  Excel  Survey Monkey
+Matlab  Stata  R
+WRF IDL Matlab
+MATLAB  Excel
+too many too list 
+Mathematika  Matlab
+SAS  Stata  R  SUDAAN
+Common Astronomy Software Applications  CASA   Miriad
+perfsonar  matlab  emulab  elk stack  tensorflow  neo4j  
+elan  flex  audacity  avidemux  windows movie maker  final cut  imdi
+D3 js  GeoGebra
+SPSS  HLM  R
+Maple   Sage Cloud
+Matlab
+R  XCMS  MaxQuant  Perseus
+lammps  abaqus  comsol  matlab
+psychopy  SPSS
+Tableau  Salesforce 
+Matlab
+We use metagemonics programs such as trinity
+matlab  r
+YASARA  Schrodinger  NAMD  Gromacs
+MFIX DEM  my group is doing work to optimize the performance of this code
+Play Framework  Scikit learn  Librosa 
+MATLAB
+Root
+Matlab  abaqus 
+scipy astropy sunpy SolarSoft moin linux IDL ppm cfitsio ds9 mpi prototypejs sge BLAS  etc
+ansys cst studio
+FSL  AFNI  SPM
+LIWC
+SPSS
+comsol  phreeqc and modflow  usgs codes 
+namd  vmd  charmm  gromacs
+Matlab  Volocity  NIH Image J + plugins through FIJI
+matlab  overture
+LAMMPS  VASP
+ROS  OpenCV  Cafe
+CMSSW  Delphes  Various Event Gnerators
+Tensorflow  Keras  Pandas  
+Stata  ESRI
+Dedoose  Antconc
+deal II  PETSc  NumPy  ScyPy  IMSL
+matlab
+R  Grass GIS
+Eclipse  Android SDK  Pizo  etc 
+OpenStack  Docker  MESOS      many more   
+winclada  structure  tnt  raxml  mrbayes  mafft  geneland  genepop
+Several hundred libraries and 3rd party projects
+namd  gromacs  vmd  gaussian
+bwa  bowtie  R
+R  Matlab
+IgorPro  Mathematica  LabView  SolidWorks
+R  Matlab
+Geneious  mother  clustal  blast  Phylip  bowtie   hmmer  tophat
+Various
+Some  basic open source software packages
+ABAQUS  Matlab  R  Lingo
+Sage  Macaulay2  Gfan  Singular
+Gaussian
+kaldi tensorflow dynet xnmt cntk
+memalloy
+Spss  nvivo  excel
+None   we write all of our own code 
+qiime  biophyton  velvet  rockhopper
+Boost  QT  Hera  PHAT   The last two are computational topology software packages 
+SciPy  NumPy  AstroPy  IRAF  R
+Gaussian
+matlab  simulink  powerworld  PSIM
+none
+ERDAS  ArcGIS
+Nek5000  Matlab  Goma 6 0
+R  matlab
+Amira  Avizo  Relion  Chimera  Rosetta  Modeller  Phenix  AutoDock
+mathematica  macaulay  magma  CoCoA  maple
+Blast Bowtie Canu Abyss Blat many others for sequence analysis 
+Root
+n a
+MatLab  ImageJ  IDL  Imaris BitPlane  Velocity  CODE V
+Enzo  yt  HDF5
+GAUSSIAN  GAMESS  NWChem   Spartan
+SAS  SPSS  MPLUS  STATA
+labView  mathematica  origin  office
+VIRES
+R  matlab
+Mason  Eclipse  R
+None
+MPI  Qt  MYSQL
+LAMMPS
+gaussian 16  polyrate
+ 
+Aviso  Amira  Microsoft Office  
+R
+R  Stacks  BLAST
+MPI  HDF5  NetCDF
+MPI  OpenSHMEM
+MAGMA  Maple  GAP
+Matlab
+R Nimble
+matlab  and its toolboxes 
+IDL ENVI  ArcGIS  gdal  R
+Comsol  Matlab  ReflexW
+gcc
+Matlab
+Gaussian  Orca  Psi4
+NAMD  Gromacs  VMD
+MATLAB
+JMP  STATA
+matlab  python  
+netcdf  pnetcdf  mpi
+VizKit
+corenlp  tensorflow  jena  fusecki  mysql
+Sage  Mathematica
+SAGE
+cublas  openfst  blas
+R
+Quantum Espresso  VASP
+too many to enumerate 
+numpy  scipy  sklearn  theano  pandas
+Qt  PyTorch  BLAS  LAPACK  OpenGL  VTK
+Apple FinalCut ProX  many open source js libraries
+R
+matlab  labview  ros
+Erdas  arc info  r  excel
+JoinMap  R  RECORD  Checkmatrix   MapChart  BLASTn  BatchPrimer3  FastQC  FastX  CLC Genomics Workbench  KlusterCaller  RepeatMasker  BWA  Galaxy   GATK  GenomeStudio  MapManager  MapChart  PLINK  NT SYS
+MS Excel
+Labview  Matlab  Zemax  Solidworks
+SPSS  R  commercial survey platform
+Bioconductor  Numpy  Pandas
+Microsoft 
+R  Maple  Mathlab
+OOMFF  COMSOL
+fftw3  gsl lapack octave povray minpack
+many
+COMSOL
+Qiime 
+ROOT  GEANT  CERN libraries  Theano  TensorFlow
+spss  sas  sigmaplot  microsoft
+Trinity  R  Spike2  Clampfit  Blast2GO
+qgis  postgres  tensorflow  opencv  aforge  emgucv  postgis  gdal  arcgis
+open source
+Gaussian  NWChem  CP2K  RMC++  RMCProfile  MOPAC  
+MPI
+Matlab  R  Python  Java
+SAS  SPSS  Offline Sorter  Plexon   Plexutil  Plexon   Neuroexplorer  Data Analysis Software for Neurophysiology 
+iraf  aips  casa astromatic tools  vao tools idl    
+SPSS  R  Qualtrics
+Fiji  SplitsTree  PAUP  Mesquite  PHYLIP  MEGA  JMP  Biology Workbench  CONSURF  BayesPhylogenies  Phylogeny fr  FigTree  Network 5 
+RAxML  BEAST2  Mr Bayes  Partitionfinder  Geomorph  APE  Phytools  Phangorn  Geiger 
+Matlab  Mathematica  Sas  R  for statistics 
+Python  TensorFlow  PyTorch  CuBLAS  CuDNN  Fortran  C  C++
+R  ImageJ  Fiji  DataViewer  MeshLab  MorphJ  AnalyzerPro  TPSsuite  GIMP  NeoOffice  LogMeIn  PhotoSticher  Fugu
+ESRI GIS packages
+Unknown
+MatLab  Adobe Creative Suite  MS Office
+Word  Excel  PowerPoint  FileMaker Pro  adobe  matlab  SAS  SPSSX  superanova  sysstat  dmdx  paint  adobe photoshop  raven  Pratt  
+OpenMP  Intel MPI  OpenMPI  MATLAB  parallelized version   Python  Google Earth Engine API  MKL  compilers  FORTRAN  C++   PANDA  orbit determination software 
+IRAF   Pyraf  XM Grace  gnuplot  Octave  MS Excel
+Matlab  labview  GMS
+Xcode  Android Studio  libjsonrpc c++     
+cython scikit learn sage
+various machine learning packages  Java Swing  Eclipse  Mathlab
+Xcode  android studio  Jupiter notebooks  ansible
+Fsl  freesurfer  clapack  itk  vtk  dcm4chee  
+ea utils  gsnap  HaMMy  EMAN2  xmipp  RELION
+Caffe  Tensorflow  CUDNN   OpenCV  
+Matlab  Python  Labview  Simulink 
+Stata
+Origin  Omnic  EndNote
+Stata  R Studio
+BAM  Bowtie  GATK  other genome variant finders
+I don't work at that level of detail 
+Gaussian  ADF  VASP  MOLPRO  LAMMPS  PSI4
+fftw  fft5  gadget
+matlab
+Metlab  Adobe Suite  MS Office  Autocad  Rhinoceros NURBS 3D
+matlab  ROSS  simulator   NS 3  Gem5  Cacti     
+Aspect  DealII  other than in Aspect   Matlab  various data analays tools  commercial & public 
+SAS  STATA
+root  scipy  numpy  mathplotlib  r  xcdf  git  svn  json  zeromq
+Obspy  SPECFEM
+mathematica
+MAXQDA   Microsoft Word   Google Chrome   Adobe Creative Cloud
+R  Matlab  Sequencher  MIcrosoft Office  JMP  SAS  ArcGIS  Mesquite  Filemaker  Thunderbird  Dropbox  Firefox  Google Chrome  Evernote  Mendeley  MEGA 7  Skype  Wunderlist   
+Word  Powerpoint  Excel  FM Pro
+stata  matlab  R
+Matlab  Mathematica  CUDA
+Spark  Jupyter  TensorFlow  Hadoop MapReduce  Storm  Oracle  Postgresql  MongoDB  MySQL
+Stata
+don't know
+MATLAB  GMT  Excel
+Matlab  canopy
+Mathematica
+I don't do this
+Igor Pro  MatLab  LabView
+free  open source software
+gygy plot
+Matlab  PetSc  Hypre
+Bioconductor and CRAN packages 
+R  Matlab  ArcGIS  SAS  excel  ms windows
+BLAS  LAPACK  etc 
+Maple  R  Minitab  SPSS
+PAST
+Python  Matlab  Weather Research and Forecasting Model  WRF  from NCAR
+WRF  RegCM4  NCL
+Sage
+LabView  Root  CERN   Visual Studio  Mathematica
+Regina
+matlab
+Cilk Plus runtime  LLVM   Clang  a version of Clang that supports Cilk Plus
+GAMES  from DOE Ames LAb  Iowa State Univ   CRYSTAL14
+LLVM  OpenCL  Cetus
+Excel  JMP R SAS MATHEMATICA
+SPSS  SAS  R
+Web related
+Itasser  cluspro phyre
+LS DYNA  ABAQUS
+only minor usage of Desmond  Gaussian
+PsychoPy  Praat  ELAN  FAVE
+Macaulay 2  Singular
+EMAN2 IMOD Relion
+Magma  Sagemath  Pari
+Excel
+mathematica
+IDL  GDL
+Mathematica  Mat Lab  Ansys
+COMSOL  Matlab
+Pin  zsim  gem5  SPEC CPU
+Weka  Matlab  TensorFlow  Teano
+Maple
+matlab
+Pocl  LLVM  Gmsh  HPX 5  OpenMPI  Numpy  Scipy  Matplotlib  Pandas  isl
+too many to list
+VASP  Quantum espresso  WSxM  Gwyddion
+OpenMM  numpy  scipy  AmberTools  Python ecosystem
+PETSc  Armadillo
+Blast  MEGAN  FLASh  RaxML  Many R packages  
+ROOT  NucNet Tool  Talys
+MATLAB
+OpenMPI  IntelMPI  Athena  XSTAR
+Generic Mapping Tools  CIG code ASPECT  Coulomb  Github  NSF EarthCube CHORDS
+Matlab
+PETSc  MPI  Metis
+R  ArcGIS
+list would be too long and too specialized
+Rhino script
+numpy  scipy
+root  Mathematica  IgorPro
+RELION
+Stata  Mplus  ArcGIS  R
+Matlab  SolidWorks  Paraview
+ArcGIS   other GIS open sources software
+STATA  R  Z Tree  for experimental economics   O Tree
+stanford parser  eclipse  tracelab
+Mathematica  Stella
+NAMD  LAMMPS
+LAMMPS  VMD  Ovito  Avogadro
+LabVIEW  Matlab  Eclipse  Python
+SPSS  STATA
+OpenCV  ROS
+GEANT4  ROOT  CORSIKA  GENIE  globus  gnuplot  gsoap     
+fftw  mpi
+GEANT  ROOT  GENIE  Gaudi  mySQL  postGres  LaTeX  
+charm
+Many R packages
+genious  clc genomics workbench  paup  beast
+ROOT  MATLAB
+Matlab  Excel  ArcGIS
+Quantum Espresso  BerkeleyGW  Gaussian  VASP
+FLASH
+java  php  visual basic
+Mainly statistical packages and HDL coders
+OpenStack  OpenDaylight
+R  ArcGIS  MaxQDA
+trilinos  metis  petsc  deal II  p4est
+matlab packages  python packages
+Root  mysql  midas
+Too numerous to list or prioritize
+LabView  MatLab  Mathematica
+lapack dealii tecplot latex
+JAVA
+Matlab  Solidworks
+matlab
+Matlab  Labview  COMSOL
+sklearn  Spark  glmnet
+R  microsoft
+R JMP
+SPSS  BrainVoyager  
+MS Office  Oxygen  Open Refine  Adobe Acrobat Pro  Camtasia  Sound Forge  Audacity
+orca  nwchem  pqsmol  gamess
+matlab  mathematica  python
+ESRI GIS  MS Excel
+BLAS  MKL  CUDA libraries
+Enthought Python Distribution  GNU Fortran  ESRI ArcGIS
+g16 orca
+R rails mysql mongodb jquery dplyr
+MPI  NVML  OFI
+BLAS  LAPACK  MAGMA  SCALAPACK  Openbabel  MATLAB  Boost libraries Cuda
+SciPy stack
+Matlab or Octave
+Stata  SPSS
+excel  CESM  sigmaplot  word  endnote  powerpoint
+R
+netlogo  repast
+ray  trinity  bowtie2  samtools  meme suite  raxml  mrbayes  gatk  treeview  blast  exabayes  etc 
+Parse
+BioPython  Bioconductor
+Huge list of python and R libraries
+SPARK  GATK
+VASP  ASE  AMP  CatMAP
+ROOT  multiple python libraries  
+Matlab  NetCDF
+none 
+Excel  Matlab  ImageJ  LoggerPro
+R
+BLAST  KBase apps
+TensorFlow Theano Keras Repast ADIOS
+Matplotlib  SciPy  MOAB  MCNP  Fluka  Geant
+none
+ROOT OSG fastjet many others
+PETSc  BoxLib  Matlab  SciPy  LAPACK  libMesh  IBAMR
+Matlab
+Galaxy  Bootstrap  Python Flask  PostgreSQL  
+petsc
+R  python
+Linux  ROS  OpenCV  CUDA  TensorFlow  SciPy   and tons of python 
+lapack minuit2 usqcd chroma
+Linux libraries  Windows libraries  TensorFlow  Neon  Drupal  others per project requirements
+MATLAB  R
+OpenCV  TensorFlow  Torch  ROS
+Stata GeodaSpace Geoda ARCMap
+Many for R  many for bioinformatics
+Hundreds of bioinformatics and chemoinfomatics software tools 
+Visual Studio  Python  Java
+Too numerous to list
+VASP  Orca  Turbomole  ADF  CP2K  Tinker
+Imaris  CellProfiler  CellProfiler Analyst
+LLVM  Z3  mono  Boogie  Corral  git
+MATLAB  LabVIEW  Slidebook  ImageJ  Anymaze  Excel  Graphpad  SPSS 
+GAUSSIAN  GAMESS  MOPAC  NAMD  LAMPPS  COMSOL  Avizo  ParaView  VisIT  Image J     
+FastLMM  BayPass  PLINK  vQTL  QXPak  Puma
+Tumult Hype  Kali Linux  Book Widgets  Adobe Creative Suite
+STATA  Excel
+IRAF
+Matlab
+Qiime
+Anaconda  ROOT  LHAPDF
+NWChem
+mascot server  
+GMT  ObsPy
+openfoam  armadillo
+pyRAF  CIAO CXC  HEASOFT  SeXtractor  IRAF STSDAS
+Labview  Matlab  Rslogix
+ArcGIS  SAS  R  Tableau
+Stata
+R  R studio  BEAST  MrBayes  Raxml
+VMD  NAMD  SimRNA  Pymol
+Guided Track
+Gaussian
+arcgis  autocad  systat  idrisi  surfer
+TensorFlow  Torch  Theano  HTK  Kaldi  SRILM
+MatLab
+Amber
+R  matlab  arcgis  envi
+Gaussian 16W
+Cadence tools  Mentor Graphics Tools  Excel  MatchCAD  Matlab
+root  cernlib  paw  geant4  geant3
+COMSOL  MATLAB
+LAMMPS
+R  SPSS
+OpenCV  TensorFlow  ROS
+We use several 100 different software packages  see manifest at https   github com rocker org ropensci
+R  Jupyter  Cloudera  Solr  Blacklight
+Unity  Blender  scipy  numpy  Pegasus  HPX 
+Invivo  Dedoose
+too many to list
+LAPACK  Eigen  Tensorflow  Jena
+Pclamp  Spike 2  Prisma
+Mathematica  and software for biomoleular modeling and computations
+MATLAB  R  Python Libraries
+System for Atmospheric Modeling  SAM   Weather Research and Forecasting  WRF  models
+too many to list
+FFTW  LAPACK
+PAUP*  ms  seq gen
+MATLAB toolboxes  python external libraries
+scipy numpy matplotlib mesa kepler castro
+MATLAB
+filemaker pro  matlab  spss  R
+Atlas ti
+MATLAB  Eigen  Boost  FEniCS
+django  bootstrap
+libmesh  pysparse  slepc  petc  gaussian  molpro  gamess
+scipy  hoomd  vmd  mbuild  freud  foyer  signac
+SPAdes  A5 pipeline  BWA  samtools  pilon  mummer  prodigal  hmmer  blast  prokka  muscle  mothur  qiime  fasttree  mrbayes  raxml
+R  GATK  bwa  HISAT2  stringtie
+SPSS R
+Matlab
+pdynamo  open babel  balloon
+Vensim  Matlab  R  SPSS
+nist refprop  microsoft office  jupyter
+LAMMPS  Gaussian  NWChem  GeoDict
+gaussian09
+GSAS  GAUSSIAN  JMP  RMC Profile  CPMD
+typical microsoft word processing and spreadsheets
+SAS  Sigmaplot
+neuron  matlab  tensorflow  blender
+VTK  ITK  OSG  Vrui
+R  SPSS  SAS  Qualtrics  DirectRT  MediaLab
+Android Studio
+MPI  ADIOS  HDF5
+advanced compilers
+Wireless Insite by Remcom  ns 3  castalia  Matlab
+OPNET  NS3  802 11mac
+netcdf  ncl  grades  CDO  NCO
+LAMMPS  VASP
+WRF  CESM  CLM  MODFLOW  LANDIS II  ED2
+ArcGIS
+Mathematica  Sage  Vensim  Stella  Netlogo  Fathom
+Scipy  Numpy  Matplotlib  Jupyter  Scikit learn  Scikit image  Dask  Spark  Tensorflow  Keras  Pytorch
+git  gcc  debugging  MySQL  PostgreSQL  MonetDB
+Mathematica   MathCAD  Open Source C
+excel  stata
+Matlab  Python
+Stata  SAS  Matlab  Perl
+FFTW  MPI
+CUDA  Pythia  CUFFT  fftw
+MATLAB CLP
+lammps Materials Studio Schrodinger Gaussian
+SAS R
+IRAF  IDL  emcee
+neuron
+NTK  Elasticsearch
+COMSOL
+Matlab  PQLX  Django  Jenkins  Spring  Tomcat  Postgres  Obspy  Antelope  vmWare  Nagios  svn  git  Jersey  Rstudio  Docker  Apache web server  RabbitMQ  Freeboard  Jupyter
+OpenCV  OpenMP  CUDA
+CHARMM  NAMD  VMD
+Stata
+MatLab  Mathematica  FRED  ZEMAX  CODE V  LightTools  TracePro
+ArcGIS  JAGS  Stan  OpenBUGS  Notepad++  Filezilla  RStudio  GitHub  Canopy  HDFView  Octave  Matlab  PhotoScan  Google Earth 
+NAMD
+SPSS   R
+SPSS  SAS  MPlus
+VASP  Wien2k  Siesta  Scikit Learn  Wannier90
+Microsoft  SPSS  pclamp  adobe photoshop  illustrator  TDT ActiveX  Song Analysis Pro  Dclamp
+Eclipse  EMF  GMF  ILOG CPLEX  OPL
+SAS
+Microsoft Office
+matlab  pylith  GMT
+Gaussian  VASP
+Root  Origin  Matlab
+numpy  matplotlib  ovito
+MATLAB  R  GraphPad Prism  MS Visual Studio  LabView
+SimFCS  ImageJ  Graphpad  VistaVision
+ROOT  CMSSW  cctools  Keras  numpy  Theano  Tensorflow  Madgraph
+MATLAB
+Gaussian  Schrodinger
+git nltk Xcode Android Studio Slack
+Adobe Creative Cloud   ELAN   F4   ChronoViz   PluralEyes
+Gaussian
+ROOT  Pythia  MCFM
+spas  R  Qualtrics
+BLAST  R  bioperl  t_coffee  bowtie  lapack  glpk
+networkx sna beautifulsoup
+Ludovic  Origin  Solidworks  Moldflow
+R
+Feynrules  Madgraph  Pythia  GEANT
+matlab  maple  macaulay2  bertini  singular
+Google Apps
+ROOT  Mathematica
+AMBER  NAMD  SciPy  NumPy  matplotlib  etc
+Praat  Apache  MySQL  R packages
+ARCOS  robot operating system Aria  robot programming API Unity Game Engine
+NCL  R  ArcGIS  WRF model
+MySQL  PHP  openssl  wxwidgets
+ESRI ArcGIS  R  Python  Apache HTTPD  MySQL  MongoDB  Drupal  Linux  MS Windows  MS Office 
+SPECFEM  GISMOTOOLS  SeismicUnix  Obspy
+Q Chem
+CFITSIO  DS9  JS9
+Lapack  Hypre  FFTW
+MKL  MOLE  libMesh  deal II  SUPCRT  OMP  MPI
+NumPy  SciPy  Pandas  PsychoPy  Psychophysics Toolbox  Caffe  TensorFlow
+Solidworks  Ansys  SPSS  MINITAB
+too many to list   about 100 python packages   about a dozen scientific packages
+hyperworks  aviso  stata  matlab  qualisys qgait  osirix  MS office
+FSL  MatLab  ArcGIS
+Quantum Espresso  Qbox  LAMMPS  CPMD  CP2K
+ABAQUS  ADINA  Matlab  VTK  OpenMPI 
+r matlab arcgis envi idl
+boost OpenFOAM openmpi Intel C++ compiler  Intel Math Kernel Library  Intel MPI  Intel Debugger For Linux  gdb
+MKL  BLAS  MAGMA  PLASMA  SPRNG  FFTW  Torch  PyTorch  Numpy  SciPy  Keras  TensorFlow
+FSL  Brainstorm and related toolboxes  Matlab toolboxes  eg  Brain Connectivity Toolbox 
+Trilinos  Petsc
+NIFTI  matlab   AFNI  FreeSurfer  SPM  Keras 
+GATK  R  Bowtie2  many others
+responsibility of other team members
+Gaussian
+NCL  NCAR   Matlab  GrADS  COLA   R
+SPSS  MPLUS  SAS
+OpenCV  Ceres  PCL  ROS
+Matlab  python  NCL  CESM
+FLAC  R  Matlab
+Comsol
+bwa  bcftools  ANGSD  R  hdf5  GSL  gemma  STAN  JAGS
+Matlab
+GAMESS  Gaussian  VASP  NWCHEM  GEANT4  ROOT  Bioconductor  QIIME
+matlab
+Gaussian  CFOUR  Q Chem  Gaussrate  Polyrate  ASFIT  ASROT  SPFIT  SPCAT
+Origin
+ABAQUS  SolidWorks
+nauty  Matlab  Python  SciPy
+Gaussian  SIESTA  Matlab  Igor  CST
+ROOT  Geant4
+NetCDF  HDF5  numpy scipy and friends  e g   matplotlib  pandas  xarray  scikit learn   MetPy
+care  R   FedData  R   tidyverse  R   fields  R 
+Python  Matlab
+Tensorflow torch scikit learn gensim unity
+MS Office suite  instrument controlling software  Bruker TopSpin  Thermo Omnic   Chem Doodle
+STATA  SPSS  Hyperresearch
+Many open source bioinformatics packages
+Numpy  Scipy
+netcdf  openMPI  matlab
+A variety of R  Java and Python packages
+QIIME  mothur  uparse  megahit  samtools  blast
+mrbayes  raxml  beast  mat  upp  blast
+oxDNA
+MUMPS PARDISO Paraview
+samtools  bedtools  bcftools  bowtie  many others that are application specific
+ABETT II for rodent behavioral training    Blackrock neural data acquisition   NeuroExplorer 
+Currently  COMSOL 
+Postgres  Spark  open source packages from other groups
+Freesurfer  FSL  AFNI  SPM  DPARSF  PLINK  PRSice  EEGLab  sci toolkit
+ROOT  numpy
+maple  mathematica  sage     
+Mathematica
+NCL R
+BLAS  LAPACK  ODEPACK  HOMPACK90  SHEPPACK  SNOPT  ACM TOMS algorithms  Mathematica
+ArcGIS  STATA  SAS  R  MATLAB  Microsoft Suite
+Matlab  WEKA
+CPLEX  Gurobi  Matlab  GAP
+Matlab  Mathematica
+numerous R packages  standard genomics processing and analysis program  also numerous 
+SageMath  GAP  LiE
+root  mySQL  SNANA
+STATA  SAS
+R  Qiime  mothur  clc
+Microsoft Office  Word  Excel  PowerPoint  Access   R  CorelDraw Suite  Grapher  Surfer  ArcGIS  QGIS  Past  MicroOlap  Navicat  Evince  hyperspectral image   PostgreSQL  pgAdmin  and more   
+MATLAB  BIOWIN  CAPDET  VISUAL MINTEQA2  PHREEQC
+linux  emacs  latex  tecplot  octave  many academic research tools from publications  nuXmv  Spin
+Tuxedo Suite  Newbler  Velvet  DiscoverDeNovo  CLCBio  Qiime  Bismark  EdgeR  DeSeq  BLAST  samtools  Picard Tools  FastQC  Trimmomatic  MACS2 
+R  MATLAB
+Gaussian  Spartan  Excel
+Arc GIS
+OpenStack
+Babelnet
+Stata  SPSS  SAS  R
+MATLAB  MAPLE  CONDOR  
+MiniTab  Excel  MATLAB Simulink
+NA
+MATLAB
+MatLab  Fiji ImageJ  KaleidaGraph  R
+GMP  MPFR  Boost
+scikit learn  tensorflow
+LibRec  scikit learn  pandas  hadoop
+comsol meep 
+Matlab  blender  geris  visIt
+matlab
+NEURON  computational neuroscience tool   matlab  GENESIS  computatoinal neuroscience tool 
+Matlab  R  ScientificWorkplace  SigmaPlot
+ROOT  GEANT  Mathematica
+MSaccess
+VASP ASE GPAW MATLAB COMSOL
+sage  bowtie  samtools  linux core utilities
+root  kalaidagraph
+SPSS  StatGraphics 
+Photoshop  imageJ  FIJI  Excel  Word  Mendeley  
+player stage  morse  gurobi
+Gaussian GAMESS NBO
+Many R pakages
+qmp  qdp  qdp++  qlua  chroma  quda  qphix
+Ansys
+ROOT MCNP SCINFUL
+RAxML MrBayes R 
+fftw
+Tensorflow  theano  kerras
+scalapack lapack blas
+ROOT
+Athena IFEFFIT  MS Office  Kaleidagraph
+SPSS
+NAMD  LAMMPS  AMBER
+Matlab  Maple  some CFD codes
+Special graph theory packages from the community
+Extensive Linux Unix libraries for numerical methods  signal and image processing  machine learning  statistics  VTK ITK  OpenGL  QT  the list is enormous
+PyMOL  NCBI servers  Vector NTI  Cytoscape
+Matlab  Genplot Labview
+opengl   firefox
+Quantum Espresso
+SPM  Anything in PIP or Anaconda ecosystem  Unity
+Excel  GMT  Fink  Kaleidagraph  Matlab  R
+R  ArcGIS
+raxml  phylobayes  trinity  blast
+openmap  scipy  numpy apache commons  jung  Mathematica  Matlab  Intelli J  Visual Studio
+WALA TAJS Node js npm
+LAPMS
+scikit learn  numpy  nltk  selenium
+many
+Geant4  ROOT  jupiter  matplotlib  pandas  numpy  docker  singularity
+Matlab R
+ANSYS
+SPSS MS Office Suite M+ r 
+MKL  LLVM
+SPSS  R  Python
+ArcGIS R MS Office SQL Server RStudio
+Mplus  OpenBUGS  WinBUGS  SPSS  SAS
+ROOT  GEANT
+AMBER  NAMD  Gromacs  Gaussian  VMD  HOOMD Blue  LAMMPS  SOP GPU  Cafemol  Chimera  Modeller  OpenMM
+SAT Solvers  Model Checkers  Theorem provers  
+PETSc  FFTW
+nlopt
+PetSC  deal II  matlab  cubit  trellis  trilinos  gmt  visit  paraview  and software tools & services
+Cantera PyFR Clawpack
+Many  Question too broad
+R   Matlab
+Matlab
+Mathematica
+Matlab  Mathematica
+mathematica  Lorene  HDF5  visit
+SSPS
+abaqus  comsol  matlab
+Airtable  Filemaker
+Lapack  spicy  bumpy  matplotlib
+Caffe2
+FLAC  SLOPEW  Matlab
+LASPack Scalapack Lapack ARPack Madpack Yale Sparse Matrix Package SuiteSparse
+blast  bwa  bowtie  prodigal  orthoMCL  spades  
+Common Lisp implementations  Allegro CL  LispWorks  SBCL  CMUCL  CCL  GCL   GNU Make  Glucose  SAT solver   Perl
+R  QGIS
+CCPN Analysis  NMRPipe  MestreNova  XplorNIH  PyMol
+COMSOL multiphysics
+matlab
+CUDA  OpenCL
+CMPLX  MOSAK  CVX
+too many to list
+Intel MK  Eigen
+Sklearn  Tensorflow  Various libraries
+R  Avizo Amira  Maya  etc 
+MS SQL
+Angular  Bootstrap  various Python libraries  IDE software  Aptana  Sublime Text  OpenRefine 
+OpenStack  Hadoop MapReduce  Django  Apache Storm  Backbone Marionette JS  Ansible  Docker  Cassandra  MongoDB  Elastic Search 
+scalapack  blas  cuda  MPI  OpenSHMEM  PaRSEC  and many others
+FEniCS PETSc SLEPc NumPy SciPy
+R packages
+OpenCV  TensorFlow
+Cuda  Keras  Caffe  Torch  SciKit  TensorFlow  OpenCV  
+MPI  BLAS LAPACK  PETSc  SLEPc  Intel compilers  NVCC  GCC
+MATLAB  LABVIEW  STAAD Pro
+modeller  swiss docking  phyre2
+matlab
+Latex   Gcc  Clang   Linux
+R  STATA
+OpenStack  TensorFlow  TinyOS
+LabView  Matlab based external packages
+R ArcGIS
+Magma
+e prime  spss  psychoPy  
+KNITRO
+Matlab  Igor  ImageJ  Imaris  Mcell  Janelia farms imaging  software  numerous commercial platforms
+abaqus
+Matlab  maple  mathematica
+amira
+SPSS  many others I don't know names of 
+PAST  Philip  Mesquite  Adobe Photoshop and Illustrator  JMP  ImageJ  Microsoft Office  FileMaker
+Cad softwarre
+numpy  scipy scikit learn
+CASA
+NCL
+matlab  python
+EEGLab  ERPLab  Comsol
+adobe framemaker
+tensorflow
+Microsoft Excel  Isoplot  Adobe Illustrator  Adobe Photoshop  ImageJ
+R Git TAMS Analyzer  unmaintained 
+enzo  yt
+AngularJS  SpringFramework  Hibernate  JDBC  R  SPSS
+MOOG  IRAF  DAOPHOT  Source Extractor  SCAMP  SWARP
+Mathematica  Matlab Octave  Python  Labview  Comsol  PC1D  AFORS Het  a number of ones hosted on Nanohub
+R  SAS  Trinity
+mathematica  PaRIS  gnu toolchain
+ROOT
+MATLAB
+SPIDER  Wadsworth Center   IMOD  U  Colorado   Bsoft  NIH   UCSF Chimera  Freealign  Janelia F    Relion  UK   and others
+Gridlink
+GMT  Matlab  specific python packages
+Reduce  FIRE
+MatLab  EPrime
+WRF  CMAQ  CAMx  GEOS Chem  IDV  NCO  CDO  NetCDF
+R
+R  Python  arc  grass  envi
+mathematica  matlab  anaconda
+HOOMD Blue  GROMACS  LAAMPS  Freefem++  VMD  NumPy  SciPy
+Amber  Gaussian  Schrodinger Suite  GROMACS
+Microsoft Work Excel   Adobe Illustrator
+spartan  microsoft office  Sivvu  origin  mestranova  chemdraw  matlab  hyss  hypnmr  digielch
+Only compilers
+R and several packages 
+root  excel
+R
+iraf  moog  supermongo  excell  ds9
+Hadoop  Spark  TensorFlow  Django  MySQL  Postgres  Flask  AngularJS
+Chem  NWChem
+node js  d3 js  R packages  scipy  numpy
+GMP
+VASP  Igor Pro
+mathlab  mathematica  idl
+Matlab  CPlex
+Solr  Stanford NLP  ABBYY  Tesseract
+SATe  Phylip
+GAMESS
+spss  sas  nvivo  microsoft suite
+Regina  Snappy
+PETSc  METIS  CUBIT
+SPSS  Mplus  general office software  R  various 
+Mathematica   Matlab
+LAPACK  BLAS  CTF
+GSL  MPI
+Stata  Matlab
+Matlab  labview  Gaussian 
+Matlab  Mathematica  deal ii  LAMMPS  numpy  scipy  matplotlib  asymptote  latex  bibtex
+MATLAB  Sundials from LLNL  PETSc from ANL  SASS  MAPLE  IMSL Rogue Wave
+numpy  scipy  etc etc
+blas  lapack  numpy  openmp
+Sigma Scan 5 0  MATLAB
+Matlab
+Excel  SAS  Stata  SQL  but many others throughout the firm 
+matlab  OpenSees  OPenFoam  Revit
+FFTPACK  BLAS LAPACK
+Gaussian  Trilinos
+MPI libraries  FFTW
+idl  mathematica  matlab  python  maya  avizo  viztrails
+Gaussian  Abinit  dp  octopus
+Stata SAS
+R  Matlab  Gaussian  Namd  ACD Spectrus  blast  Hmmsearch  OrthoMCL  Mega  STAR  TopHat      
+none
+Arbor  mothur  trinity  spades  qiime  R  various packages   Galaxy
+VASP Quantum Espresso PETSC
+VASP
+LAPACK  FFTW  MPI  IDL  VisIt
+Matlab  Mathematica  COMSOL
+Too many to list here 
+microsoft office  SPSS
+matlab idl shell
+edgeR  tuxedo_suite  eXpress  trinity  sam_tools  trinotate
+Amber  openbabel  python  OpenMPI  Intel and GNU compilers  CUDA  VMD
+ArcGIS  GRASS  ERDAS  Unity  QGIS  PostGIS  PhotScan  Pix4D
+PETSc  HDF  OpenGL
+Unity3D
+SPSS  Excel
+matlab  spm  afni  R
+R   otherwise the standard Microsoft and Google Drive packages 
+Chimera  VMD  Modeller  MEGA  BioEdit  MOE
+currently none
+TensorFlow  Caffe  Unreal Engine  ROS  Gazebo
+MS Office  Adobe Illustrator  Aabel  IoGas  MapApps
+IDLE  MySQL Community Edition  Sublime  NodeJS  RStudio  Eclipse   
+Bioconductor
+Gridzilla  Livedata  DS9  Starlink  Karma  Miriad  ATNF   AIPS  CASA
+Numpy  Pandas  D3  MapBoxGL  Matplotlib  Gonum  etc  
+matlab  GMT  GrADS  xmgr  python packages
+Gaussian  VASP  AMBER  GROMAC 
+R  too numerous to list in general
+bowtie2  GATK  angsd  vcftools  RAxML  plink  MrBayes  hiphy
+Abaqus
+image processing packages  telescope control software
+Too many to list
+MathLab  LabView  Origin  Mathematica
+Athena
+Excel  MarketSight  R
+matlab  cplex  gurobi
+Matlab
+Gaussian  Spartan
+Mathematica  Pythia  Root  MatLab
+Too many to list
+way too many to mention
+TotalView
+Gromacs
+Wolfram Mathematica  Matlab  R
+Stata  MPlus  SASS  SPSS  R  NVivo
+Elan  praat  audacity 
+spice  tcad
+SPM  AFNI  FSL
+matlab  mathematica
+CUDA  various processor simulators
+Stanford NLP package  GATE  NLTK  Anvil
+NetCDF  Intel MKL  
+Maple  sage  polymake  ppl  flint  ntl  linbox  qhull  znpoly
+SIDL  Babel  Bocca
+existing GPU libraries  existing open source parallel computing benchmarks  Rodinia  Lonestar  etc  
+R  Excel  Access
+ROOT  Matplotlib  Scipy
+ArcGIS
+Spss  Dreamweaver  nvivo  ms office  ms access
+R
+Matlab  Mathematica  Sage
+Microsoft Office  Adobe Creative Cloud
+COMSOL  Fluent
+SurveyMonkey   EPrime   SPSS   SAS   
+matlab  idl
+STATA
+TensenorFlow  OpenACC  Matlab  
+LabView  Gaussian  Spartan  Yasara
+Stata  SAS  R Studio  Anaconda  Jupyter Notebook
+too many to list  Python is the result of community work
+amber  openmm
+Octave  ArcGIS  ENVI  various codes available from National Labs  Livermore and Los Alamos   MSC  MARC Mentat  commercial FEM code 
+VASP  ASE  Gaussian  DaCapo
+Matlab
+bedtools  biopython  pybedtools  other
+Galaxy  Biopython  many tools for NGS data analysis
+GSL
+HDF5  wxPython  matplotlib  numpy
+astropy open refine  google docs  google sheets  topcat
+AMBER  Gaussian  Q Chem  R
+Microsoft Access  Sharepoint
+GMP  MPI
+Topas  fullprof  GSAS  VESTA  Quantum Espresso  VASP
+R  SAS  MARK
+AstroImageJ  GIMP 
+Gaussian 09  GAMESS  Mathcad  Mathematica
+FORTRAN  MatLab  Python  Excel  Abaccus  Lingo
+iraf  ciao  xspec
+ROOT  lots of stuff in the python ecosystem
+MEGAN6  DIAMOND
+R  Matlab
+Altair Hyperworks  Altair Inspire  LS Dyna  Impetus  Matlab  LabView  SolidWorks
+R  MATLAB
+R  Tableau  SPSS  Nvivo  TeXShop  GraphicConverter  BBEdit  Collaborate  Canvas LMS    note that we are users rather than generators modifiers of software 
+Casacore  Many Python utilities
+R  R stats packages  doParallel  R 
+HSPF  HECHMS  HECRAS  ArcMap  CEQUAL W2  EPANET  RIVER2D
+R packages
+Python libraries and SQL libraries
+Matlab
+MATLAB  COMSOL  ANSYS  PSpice
+Bertini  OOMMF and dependencies
+Mathematica
+WRF  ParFlow  LandLab  CLM  ED
+Quantum Espresso  PYXAID   GRACE and MatLab for graphics
+qiime mothur many related
+Maple  SAP2000
+RaxML  STRUCTURE  IPYRAD  SVDQuartets  PAUP  BEAST  ASTRAL
+Matlab R intel MKL intel VSL
+MATLAB  ArcGIS
+Cadence  Synopsys  ADS  Mentor Graphics  Matlab
+SAS  ERDAS  ARCGIS  JMP
+SAS  SPSS  STATA  NVIVO  QDAMiner  WordStat  ARCGIS
+Postgres
+SPSS
+Too many to list
+lammps cp2k
+Matlab
+mothur  R  STRUCTURE  RAxML  MIGRATE  Primer
+DS9
+None
+R  ELAN  LaTeX
+Linux  GMP  ANTLR  SLURM
+Various software included in Linux  Apache  phpmyadmin  Microsoft office  Quanta Charmm  GlMol  PyMol
+Mathematica
+RStudio  Igor Pro  Net Station  BESA  SPSS
+Clustal X  BioEdit  PAUPRat  RAxML  GARLI 0 951  ModelTest 3 7  PAUP
+matlab  python
+Gaussian09
+Python modules  Weka  MySQL
+Numpy  scipy  etc
+namd  gromacs  amber  charmm  profasi  lammps
+IDL  Matlab  LabVIEW  ImageJ
+IDL libraries  Python libraries
+IMSL Rogueware  R
+Mathematica
+R  Matlab  SAS
+jupyter  numpy  scipy  pandas  scikit learn  matplotlib  statsmodels  nltk
+scikit learn  pandas  TensorFlow  Caffe  MATLAB
+Sas  r
+Chroma  Bigstick  QUDA
+Visual Studio  IDL
+Matlab  Architecture Simulators  Gem5 etc 
+N A
+Gaussian 16  CFOUR  CP2K
+netCDF  gdal  udunits
+Vasp  phonopy  lammps  shengbte
+sklearn  nltk  D3  jQuery  Node js  mallet
+Gaussian  GROMOS  MatLab
+lammps  gaussian  USPEX
+R  Stata
+stata   sas   mplus   r   python
+FDTD Solutions by Lumerical Solutions  Nextnano3  SiLENSe from STR Group  Atlas from Silvaco  Microsoft Excel
+OpenFOAM Matlab Pointwise 
+WEKA  ipsumdump  R
+Structure  Adegenet  Beast
+ArcGIS  GPR Slice
+Jupyter  R
+R  bioconductor  bioinformatics software
+numpy scipy  theano  scikit learn  apache spark  R  postgres
+many web toolkits
+OpenCV  TensorFlow
+ENVI  ArcGIS  JMARS  davinci
+PC ORD  R
+Mathematica  Matlab
+R  ArcGIS
+python  numpy  scipy  matplotib  GROMACS  LAMMPS  AmberTools  many other python libraries
+LabVIEW  Matlab  Igor Pro
+Stata
+Mostly libraries prevalent in Java Python R community that are well suited for the task on hand 
+Gaussian  TurboMole  AMBER  NAMD  ChemShell  QM MM   AutoDock  Gromacs  MOLCAS  MolPro  VASP
+R  MySQL  TalenD  Drupal  HiCharts  MongoDB
+Mathematica
+Matlab  R  NetLogo  idTracker  AnTracks  Adobe CC  Premiere Pro  Photoshop   SAS  UCINET  SOCPROG  ImageJ
+INtel MKL  MPI
+lots of apache products
+neuron  python  matlab
+R Studio
+R mpi hadoop
+gromacs  gaussian  orca
+r
+dozens of R packages
+numpy scipy astropy
+matlab
+LAMMPS  SPPARKS  Jupyter  MatLab  Ansys
+CASA TOPCAT PyRAF MYRIAD GIPSY
+Stata  HLM  SPSS
+NumPy  SciPy  SymPy  Astropy  Matplotlib  h5py  Jupyter  Cython  HDF5  PETSc  LAPACK
+milc primme
+Hortonworks  TensorFlow  CloudStack  Cloudera  Caffe  Theano  Torch
+node  django  xcode  concrete5
+Systat   PAST   ArcGIS
+gaussian
+Matlab  R  Avizo  Strand7
+WRF model  ncl  grads
+Mathematica 
+Paraview  pscf
+ That list would be way too long  
+MatLab  Fiji  GraphPad Prism  Excel
+gromacs  amber  namd  rosetta
+NetLogo  Absoft
+Gaussian 09
+R  Dataverse  Qualtrics  iRODS
+Guidance  RaxML  many others
+Qiime  R  MG RAST
+Mathematica
+MOE  autodock  Mascot  numerous instrument specific analytical packages
+Latex  scientific workplace 
+CLC Genomics Workbench  Geneious and cloud based options like CyVerse
+Stata  R  SPSS  Excel
+astropy  sextractor  scamp  MPI  LSST  
+Gaussian09  NWChem  Siesta
+FLUENT  OPEN_FOAM  DELFT3D  DEM  
+gnuplot  mathematica
+IRAF  XQuartz  TeXshop  Anaconda  Mendeley  Microsoft Office
+Matlab
+Some IDL
+matlab  cplex  modelcenter  dymola  eclipse  magicdraw  
+Mathematica  solidworks  comsol  ms office  LaTex
+SAS  Stata  R  ARC GIS
+OpenSim  Matlab
+Robot Operating System  ROS 
+git  latex  matplotlib  Scientific Python  LALsuite  jupyter
+Matlab  Lumerical FDTD Solutions  Zemax  Mathematica
+Geneious  MrBayes  RAxML  BEAST  G PhoCS  PAML
+Mathematica  Maple
+CUDA  Matlab  Arduino  Labview  MySQL  Apache
+Ruby Mine
+LAMMPS  HOOMD  VASP
+R  Matlab  Mathematica
+R  MaxQDA  SPSS
+NCL
+Netlogo  Stata  R
+ChemAxon  rdkit  Django
+Eigen  CUDA
+Matlab  Trinity  R
+lalsuite
+Too many to enumerate here
+CUC BIO  MatLab  R
+Far too many to list  Many python analysis  matrix  and visualization libraries  Machine learning libraries 
+Math libraries  PeTSc
+gap  meataxe
+biojava  biopython
+CPLEX
+R Stata
+Fenics  Femlab
+NVivo  STATA  UCINET  R  W NOMINATE
+LIGO software package called lalsuite
+ASPECT  Deal II  Pylith  PetSc  GMT  VRUI  Rayleigh  Calypso  SpecFEM  CitCom
+R  MATLAB  RapidMiner
+idl
+Unity3D  Blender  Visual Studio  Photoshop
+OpenFoam  basically forced by funding agency 
+SPSS  and we hate it 
+Office Suite and Adobe Suite
+astropy  numpy  HAAC  custom code written by collaborators
+Intel MKL  GSL  CUDA  SUNDIALS
+Mathematica  MATLAB  Gephi
+MPI libraries  FFTW  PETSC
+R  SPSS
+Adf band  feff  
+R packages  dozens  Velvet SOAP bwa bowtie2 maker Trinity Kallisto Tuxedo HISAT TASSEL Stacks Freebayes 
+Mothur  ATLAS  BLAST  NAMD  Gromacs  D3  R
+Stata  SAS  SPSS
+Stata
+Igor  Matlab  Gaussian  ORCA
+BWA  Samtools  Picard  GATK  bedtools  VCFtools  Procean  ANGSD  ngsTools  STRUCTURE  plink  DESeq2  WGCNA  BLAST
+mathematica  maple
+R
+Microsoft office  web services such as DeDoose  GSuite  and Zotero
+excel  GMT  Ferret
+VAPOR   ViSIT
+R packages
+R stata cplex 
+Stata  R  BaKoMa TeX
+VisIt  LLNL   Vapor  NCAR   NCAR graphics NCL  matplotlib  
+cadence  matlab
+Materials Studio  CASTEP NMR  Quantum Espresso  
+FlexPDE  GIMP  ImageJ  Photoshop
+Geneious  SPECIFY  Mesquite  PAUP  BEAST  Arlequin  ORTHOGRAPH
+MKL  OSKI  CUSP  CUB
+Hadoop  Many libraries
+This question isn't answerable for a professional software development and research group like ours  The list would have hundreds of items 
+MNE  Brainstorm  Freesurfer  SPM  
+PETSC  ASPECT  LAMEM  FLAC
+R  SPSS  STATA  SQL
+SPM  Tensorflow  Caffe  libSVM  EEGLab  Fieldtrip  FreeSurfer  Brainstorm  TDT  PyMVPA 
+SPSS  SAS  Stata
+Condor AstrOmatic
+Martini  LAMMPS  HOOMD BLUE
+Stata  R  Python
+FFTW  Intel MKL  LAPACK  Trillinois  Petsc  Matlab
+SPSS
+NetLogo
+Matlab  Mathematica
+Excel  PPT  MSWord  
+MatLab
+maple  mathematica  sage  R
+hadoop  spark
+IDL  python
+VASP
+Mathematica  Numerical recipes
+ABAQUS
+GAUSSIAN  Mathematica  MathCAD  Programs from the PROSPE Website  SPCAT  SPFIT
+MS Office  Matlaab  ACDSee  Endnote  
+Matlab  Mathematica  Maple
+zTree  Stada  Excel
+CUDA  GSL  BLAS
+GPU Libraries FPGA tools  EDA Tools
+MATLAB Microchip compilers Many Python packages Many R packages
+Excel 
+Mathematica  SLATEC  NetLib
+zemax  matlab  mathmatica  adobe creative suite  solidworks  labview
+matlab  mathematica  comsol
+Autodesk Maya  Geomagic Studio  Horos DICOM viewer  Adobe products  Igor
+R  Arcpy  GDAL OGR  numpy  anaconda
+PFC  Matlab
+Sage
+Noldus   Mindware   
+Gadget  SUNRISE  ChaNGa
+R  Stata
+R
+R
+Matlab  Jupiter  svn
+R MS Office
+eprime
+MATLAB  R
+Fusion 360
+Gaussian  Orca  SPCAT  SPFIT  AABS
+many
+Matlab
+stata  r
+SEAWAT  DELFT3D  COAWST  XBeach  SWAN  SWASH  GPUSPH
+Electronic structure codes
+OpenMx  caret  TraMineR   SciPy  NumPy  SciKitLearn  keras   Signal Processing  Image Processing  and other MATLAB toolboxes
+LAMMPS
+Microsoft office 
+SPSS  R
+GHC
+GitHub  R  Matlab 
+Trilinos OpenMP
+MatLab Mathematica C
+SPSS  Stata
+LAMMPS  VASP  autoslice  numpy  mpi4pi  scikit learn
+MatLab
+mathematica  lots of gnu freeware
+SPSS  Qualtrics  SONA systems
+python  matlab  mathematica
+Matlab Labview
+matlab
+bowtie  bwa  blast  mira  GATKtoolkit  picard  popoolation  samtools
+gaussian  psi4
+Python  MatLab  Mathematica  R  SAS
+RAST
+SAS  SPSS  MediaLab  DirectRT  Office365
+xmgrace openbabel fftw qhull
+LAMMPS  Paraview  Numpy  Scipy  FFTW  Trilinois  
+Tensorflow
+IDL  Matlab  Labview  specialty spectroscopy packages
+Office  Matlab  JMP  DeltaGraph
+Gaussian  ORCA
+Numerous
+Excel  JMP  ArcGIS
+Qt
+Gromacs  OpenMM  NWChem  HOOMD
+MatLab
+Stata
+VASP  LAMMPS
+R packages
+R  python
+Python
+MATLAB
+python scientific libraries  numpy  scipy  matplotlib  tensorflow      relax  pylith  Gipsy  gamit
+tidyverse  and numerous packages from CRAN and GitHub 
+ROS  OpenCV  MoveIt   TrajOpt  Gazebo  Point Cloud Library
+CERNLIB  CMSSW  GEANT  ROOT  MADGRAPH  more 
+Microsoft Office
+I do not know 
+spss modeler  IBM Cognos BI Suite  SAS  SharePoint  Drupal
+Matlab  VASP  Labview
+Stata
+git  Linux
+R 
+Eigen  C++ matrix library   Boost  C++ general and math library   CVODES  C++ ODE solver library 
+MATLAB  Mathematica
+R and many modules therein  gsnap  raxml  bambam  bwa  bowtie  hylite  mrbayes  parallel  astral  bamtools  samtools  bcftools  bedtools  fastqc  gatk  picard  mafft  orthomcl  orthofinder  clustalw  snpeff  sratoolkit  circos  hybpiper  hapcut  trinity  mira  muscle  mummer  mugsy  repeatmasker  tophat
+yt  mathematica  Matlab 
+ROOT   Geant4   
+IRAF
+BLAS  Matlab
+stata  inquisit  qualtrics
+ipython notebook
+Schrodinger  Gaussian
+too many to list
+Matlab 
+openmpi  sqlite  matlab  python  netcdf  hdf  fftw
+samtools
+Matlab
+root  some matlab
+SAS  Stata
+SPSS
+gcc g++ gfortran  java jdk  root  proof  xrootd  htcondor  openssl  lcmaps  gridftp  globus  cernlib  geant4  matplotlib  matlab  lapack  numpy  clhep  mysql  postgres  virtualbox  singularity  cernvm  dcache  qt  X11  libjpeg  heprep  cuda  openmp
+Amsterdam Density Functional Theory  Gaussian
+MATLAB
+FEAP   FEBio   Abaqus   Ansys
+Canvas
+R
+Gaussian  Games  CFour
+matlab
+NAMD  AMBER  GROMACS
+Acrobat  COMSOL  Endnote  LabView  MathCAD  Mathematica  Matlab  Origin  Rsoft  Zemax
+Sage  Magma  Pari gp
+jags  stan
+Mathematica  Bertini  SolidWorks
+sem  lavaan
+EEGLAB  ERPLAB
+astropy  fftw  gsl
+Anaconda Jupyter  RStudio  Tableau  ArcGIS  CoCalc
+SigmaPlot  NBS Presentation  ePrime  R
+BEAST  PAML  PAUP*  RaxML  RevBayes
+Move  Petrel  ABAQUS  
+matlab  mathematica  maple
+TNT BLAST GARLI MAFFT MUSCLE ABySS smalt ePCR KALIGN MIRA R RAxML Tippecanoe Trinity USEARCH 
+matlab  gauss  aptech   stata
+XMM SAS  CIAO  IDL Astronomy Users Library  Chianti
+Implementations of the above  portability libraries  e g  libuv 
+PSSE
+BEAST  Mr  Bayes  Tracer  Mesquite
+STATA  SPSS
+Theano  Kaldi
+Mathematica  Igor Pro
+We draw on the extensive ROS repositories available on the web 
+Microsoft Project
+ABACUS  DAMASK
+LAPACK  Matlab  Mathematica
+IgPEt  MinPet  Isoplot  corel graphics suite  ARc GIS  different JOEL probe software
+We use a very large ecosystem of open source software  Too many packages to list 
+SCAPS 1d  CALPHAD  VASP  and Quantum Espresso
+DaVis  PIV   GraphNav  GPS post processing   Mission Planner  flight planner for autonomous vehicles 
+OpenFOAM
+matlab  R
+Matlab
+Gromacs  NAMD  LAMMPS  
+Geneious MrBayes ImageJ
+Sage  Maple
+too many to list
+A large number fo experimental parrticle phsyics packages such as  geant  root  pythia
+bowtie2  various next gen sequencing
+numpy  scipy  matplotlib  boost  cernlib  root
+LAPACK  PETSC  emcee  numpy scipy  gsl
+ESRI Arc GIS  Sigmaplot  Matlab  ERAS Imagine
+Microsoft Office Suite
+Software for fMRI data analysis  FSL  AFNI 
+matlab  mathematica  illustrator  latex
+Root Data Analysis Framework  Software specific to the CMS Experiment Collaboration at CERN
+fftw  various linear algebra packages  some computational geometry packages
+Matlab  IDL  Comsol
+Origin labview
+R  JavaScript  probably others I don't know about  SPSS  SAS  
+Spss 
+ArcGIS  SPSS  MiniTab  R
+R
+hundreds  Can't possibly list them all here 
+MATLAB
+IceCube software suite  boost  Numerical Recipes  MultiNest  numpy  Root
+Too many R and Python packages to name individually 
+Various Genomics  Various Bioinformatics
+matlab  imageJ
+STAN
+long list of molecular evolution software  raxml  paml  mafft  prank  etc   that changes often
+Stata  R  SAS
+Deseq2  wgcna
+rstudio  different python IDEs
+MPI  OpenMP  CUDA
+NVivo  SPSS  StudioCode
+matlab
+Lapack
+squid  awstats  mrtg
+magma  sage  gp PARI
+ROS  Tensorflow
+bwa  GATK  samtools  picard  pyRAD  stacks
+Matlab  NumPy
+many
+Esri  MS SQL  IIS  Leaflet
+MrBayes RAxML Garli velvet PRICE blast BEAST astral lastz bpp
+Psych Toobox  Matlab  Brain Voyager  Neuroscan
+Packages for R and Python
+Matlab  ATHENA  ZEUS  ImageJ  LabView  
+Excel  Kaleidagraph  Image J  Digital Micrograph  VASP  Wien
+Stata and R
+NCL  GMT
+MatLab  Abaqus  Ansys  MS Visua   Studio  R Studio
+Gaussian 16  Mathematica  Multiwfn  Quantum Espresso 
+Wien2k
+stata  r
+Matlab  Labview  Synopsys  Cadence
+Stata  Matlab
+Matlab  R
